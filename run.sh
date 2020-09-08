@@ -1,0 +1,3 @@
+python get_shixunChallenge_knowledge.py
+python get_rules_knowledge.py
+python get_compileErr_to_knowledge.py

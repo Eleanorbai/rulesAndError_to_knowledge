@@ -1,0 +1,1824 @@
+:  was not declared in this scope: 0
+: invalid conversion from  to  [-fpermissive]: 1
+:  does not name a type: 2
+: expected primary-expression before  token: 3
+: expected  before  token: 4
+: expected  before string constant: 5
+: storage size of  isn: 6
+: stray  in program: 7
+: expected  before : 8
+:  without a previous : 9
+: expected unqualified-id before : 10
+: expected declaration before  token: 11
+: expected primary-expression before : 12
+: declaration of  shadows a parameter: 13
+: ld returned 1 exit status: 14
+: expression cannot be used as a function: 15
+: expected  at end of input: 16
+: lvalue required as left operand of assignment: 17
+: continue statement not within a loop: 18
+: invalid operands of types  and  to binary : 19
+: a function-definition is not allowed here before  token: 20
+: expected initializer before : 21
+: declaration of  as non-function: 22
+:  is not a member of : 23
+:  has not been declared: 24
+: template argument 1 is invalid: 25
+:  redeclared as different kind of symbol: 26
+: expected parameter pack before : 27
+:  in namespace  does not name a type: 28
+:  must return : 29
+: #include expects "FILENAME" or <FILENAME>: 30
+: expected unqualified-id before  token: 31
+: break statement not within loop or switch: 32
+ No such file or directory: 33
+:  does not name a type; did you mean ?: 34
+: expected initializer before  token: 35
+: lvalue required as unary  operand: 36
+: expected  before numeric constant: 37
+: expected initializer before numeric constant: 38
+: missing terminating " character: 39
+: return-statement with no value, in function returning  [-fpermissive]: 40
+: expected unqualified-id before string constant: 41
+: expected initializer at end of input: 42
+: redefinition of : 43
+: redeclaration of : 44
+: ambiguating new declaration of : 45
+: invalid use of  in non-member function: 46
+: expected unqualified-id before numeric constant: 47
+: invalid type argument of unary  (have ): 48
+: cast from  to  loses precision [-fpermissive]: 49
+: unable to find numeric literal operator : 50
+: expected identifier before  token: 51
+: label  used but not defined: 52
+: missing terminating > character: 53
+: stdio.h.: No such file or directory: 54
+: no input files: 55
+: ISO C++ forbids declaration of  with no type [-fpermissive]: 56
+: too many arguments to function : 57
+: expression list treated as compound expression in functional cast [-fpermissive]: 58
+: invalid cast from type  to type : 59
+: expression list treated as compound expression in initializer [-fpermissive]: 60
+: two or more data types in declaration of : 61
+: expected constructor, destructor, or type conversion before  token: 62
+: conflicting declaration : 63
+: too few arguments to function : 64
+: expected identifier before : 65
+: stdio,h: No such file or directory: 66
+:  cannot be used as a function: 67
+: no type named  in : 68
+: no members matching  in : 69
+: no matching function for call to : 70
+:  has no member named : 71
+:  is not a template function: 72
+: expected  at end of member declaration: 73
+:  conflicts with a previous declaration: 74
+: class  does not have any field named : 75
+: there are no arguments to  that depend on a template parameter, so a declaration of  must be available [-fpermissive]: 76
+:  is not a static data member of : 77
+: template definition of non-template : 78
+: type/value mismatch at argument 1 in template parameter list for : 79
+:189:40:   required from here: 80
+:  has no member named ; did you mean ?: 81
+:351:50:   required from here: 82
+:354:51:   required from here: 83
+: using invalid field : 84
+:351:30:   required from here: 85
+: expected  or  before  token: 86
+:  definition is not allowed here: 87
+: math: No such file or directory: 88
+: invalid preprocessing directive #inlcude; did you mean #include?: 89
+: invalid preprocessing directive #includ; did you mean #include?: 90
+: unterminated #ifndef: 91
+: expected  or  before : 92
+: multiple types in one declaration: 93
+: declaration does not declare anything [-fpermissive]: 94
+: assignment of function : 95
+: cannot convert  to  in assignment: 96
+: ISO C++ forbids comparison between pointer and integer [-fpermissive]: 97
+: invalid preprocessing directive #end; did you mean #endif?: 98
+: lvalue required as increment operand: 99
+: ioetream: No such file or directory: 100
+: invalid preprocessing directive #incude; did you mean #include?: 101
+: empty filename in #include: 102
+: named return values are no longer supported: 103
+: iosstream: No such file or directory: 104
+: incompatible types in assignment of  to : 105
+: uninitialized const  [-fpermissive]: 106
+: assignment of read-only variable : 107
+: found  in nested-name-specifier, expected : 108
+:  is not a class, namespace, or enumeration: 109
+: cannot convert  to  in return: 110
+: no match for  (operand types are  and ): 111
+: missing terminating : 112
+_code&): 113
+_code& __e): 114
+:217:5: note:   template argument deduction/substitution failed:: 115
+: empty character constant: 116
+: invalid initialization of reference of type  from expression of type : 117
+: lvalue required as decrement operand: 118
+: invalid types  for array subscript: 119
+: invalid use of member function  (did you forget the  ?): 120
+: expected identifier before numeric constant: 121
+: decomposition declaration cannot be declared with type : 122
+: empty decomposition declaration: 123
+: cannot convert  to  for argument  to : 124
+: exponent has no digits: 125
+_code&: 126
+: forming reference to void: 127
+: return-statement with a value, in function returning  [-fpermissive]: 128
+: variable or field  declared void: 129
+: request for member  in , which is of non-class type : 130
+: wrong type argument to bit-complement: 131
+: invalid preprocessing directive #<: 132
+ Stale file handle: 133
+: initializer in range-based  loop: 134
+:   in evaluation of : 135
+: array must be initialized with a brace-enclosed initializer: 136
+: missing template arguments before  token: 137
+ in the function!/n");: 138
+: invalid preprocessing directive #inclde; did you mean #include?: 139
+: void value not ignored as it ought to be: 140
+: cannot bind non-const lvalue reference of type  to an rvalue of type : 141
+:39:0,: 142
+:41:0,: 143
+: conversion from  to non-scalar type  requested: 144
+: cannot convert  from type  to type : 145
+: a function-definition is not allowed here befor: 146
+: aggregate  has incomplete type and cannot be defined: 147
+: invalid preprocessing directive #inclue; did you mean #include?: 148
+: unable to find string literal operator  with ,  arguments: 149
+: initializer fails to determine size of : 150
+: case label  not within a switch statement: 151
+: invalid array assignment: 152
+: too many initializers for : 153
+: initializer-string for array of chars is too long [-fpermissive]: 154
+: cannot declare  to be a global variable: 155
+: invalid preprocessing directive #incldue; did you mean #include?: 156
+: #endif without #if: 157
+: switch quantity not an integer: 158
+_code& __rhs) noexcept: 159
+_condition&): 160
+_condition& __lhs,: 161
+_condition&: 162
+: unterminated #if: 163
+: invalid preprocessing directive #c: 164
+: cannot bind rvalue  to : 165
+: expected constructor, destructor, or type conversion before : 166
+: base operand of  is not a pointer: 167
+: invalid preprocessing directive #insdclude; did you mean #include?: 168
+: function  is initialized like a variable: 169
+: base operand of  has non-pointer type : 170
+: invalid use of : 171
+: cannot convert  to  in initialization: 172
+: request for member  in , which is of pointer type  (maybe you meant to use  ?): 173
+:  declared as reference but not initialized: 174
+!\n");: 175
+: a function-definition is not allowed here before : 176
+, or slist full.\n");: 177
+: wrong type argument to unary minus: 178
+ when reading elements of the slist!\n");: 179
+ when setting elements of the slist!\n");: 180
+:  is not a type: 181
+: expected constructor, destructor, or type conversion before numeric constant: 182
+: comparison between distinct pointer types  and  lacks a cast: 183
+: qualified-id in declaration before  token: 184
+: invalid application of  to incomplete type : 185
+: no match for  (operand type is ): 186
+;      // i小于1或者大于表长: 187
+:  is not a template: 188
+ when setting elements of the slist!\n;: 189
+ when setting elements of the slist!\n;}: 190
+,or slist full.\n");: 191
+,or slist full.\n"};: 192
+,or slist full.\n")};: 193
+ when setting elemonts of the slist!\n");: 194
+,or slist full\n);: 195
+: conflicting declaration of C function : 196
+: unterminated comment: 197
+: expected statement at end of input: 198
+>delete: 199
+: type  argument given to , expected pointer: 200
+: cannot decompose non-array non-class type : 201
+: invalid use of incomplete type : 202
+,or slist full.\n"): 203
+,or slist full.\n:);: 204
+: no pre-decrement operator for type: 205
+: expected  after struct definition: 206
+: use of parameter from containing function: 207
+: expected identifier before string constant: 208
+: expected  or  before string constant: 209
+ when insert elements of the slist!\n");: 210
+: expected type-specifier before  token: 211
+,or slist full.\n);: 212
+: unable to find character literal operator  with  argument: 213
+, or slist full.\n);: 214
+: version control conflict marker in file: 215
+: invalid digit "8" in octal constant: 216
+,or slist full.\n" )；: 217
+!\n"};: 218
+: no  declared for postfix  [-fpermissive]: 219
+: could not convert  from  to : 220
+: expected  or  before numeric constant: 221
+: expected primary-expression before numeric constant: 222
+: use of  before deduction of : 223
+=true;: 224
+: default argument missing for parameter 3 of : 225
+:  is not a pointer-to-object type: 226
+: a template declaration cannot appear at block scope: 227
+,or slist fall.\n): 228
+!\n);: 229
+!\n"");: 230
+|\n);: 231
+,or slist full."\n);: 232
+!\n"）；: 233
+: #include nested too deeply: 234
+: expected type-specifier before : 235
+: fixed-point types not supported in C++: 236
+ i ");: 237
+ when setti: 238
+1、n”）；: 239
+: typedef  is initialized (use decltype instead): 240
+: statement cannot resolve address of overloaded function: 241
+: invalid digit "9" in octal constant: 242
+,or slist ful.\n);: 243
+,or slist ful.\n");: 244
+: use of an operand of type  in  is forbidden: 245
+: comparison between distinct pointer types  and  lacks a cast [-fpermissive]: 246
+: case label not within a switch statement: 247
+!\n");        SL_Free(slist);        exit(0);    }    T res=slist->data[i];    for (int j=i; j<slist->len-1; j++) {        slist->data[j] = slist->data[j+1];    }    slist->len--;    return res;    /********** End **********/}int SL_DelValue(SeqList* slist, T x)// 删除第一个值为x的结点, 存在值为x的结点则返回结点编号, 未找到返回－1{    // 请在这里补充代码，完成本关任务    /********** Begin *********/    int i=SL_FindValue(slist, x);    if (i>=0) SL_DelAt(slist, i);    return i;    /********** End **********/}: 248
+ when insert elements of the slist);: 249
+ when delete elements of the slist);: 250
+ when insert elements of the slist!\n";: 251
+"<<endl;: 252
+, or slist full.\n";: 253
+!\n";: 254
+: call to non-constexpr function : 255
+:  is not a constant expression: 256
+: duplicate case value: 257
+: multiple default labels in one switch: 258
+: the value of  is not usable in a constant expression: 259
+: case label - not within a switch statement: 260
+: case label * not within a switch statement: 261
+: case label % not within a switch statement: 262
+: case label / not within a switch statement: 263
+: expected  before user-defined character literal: 264
+: modification of  is not a constant expression: 265
+: case label 2 not within a switch statement: 266
+: case label 3 not within a switch statement: 267
+: case label 4 not within a switch statement: 268
+: case label 5 not within a switch statement: 269
+: case label 6 not within a switch statement: 270
+: case label 0 not within a switch statement: 271
+ \n");: 272
+ \n");    }: 273
+"<<endl;}: 274
+_condition& __rhs) noexcept: 275
+: case label + not within a switch statement: 276
+: expected  before user-defined string literal: 277
+: duplicate label : 278
+: jump to case label [-fpermissive]: 279
+: stdio: No such file or directory: 280
+: no post-increment operator for type: 281
+: digit separator outside digit sequence: 282
+: iostrea: No such file or directory: 283
+: local variable  may not appear in this context: 284
+: iosteam: No such file or directory: 285
+: expected primary-expression at end of input: 286
+:  or  specified with char for : 287
+: assignment of read-only location : 288
+: invalid preprocessing directive #incloud; did you mean #include?: 289
+: invalid preprocessing directive #Y: 290
+: template argument 3 is invalid: 291
+:  is not a class template: 292
+: explicit specialization of non-template : 293
+: explicit instantiation of non-template type : 294
+: template parameters not deducible in partial specialization:: 295
+:  must have an argument of class or enumerated type: 296
+: template-id  for  does not match any template declaration: 297
+: invalid preprocessing directive #defined; did you mean #define?: 298
+: studio: No such file or directory: 299
+: "(" may not appear in macro parameter list: 300
+: macro names must be identifiers: 301
+: invalid preprocessing directive #pi: 302
+:  invalid for : 303
+: c math: No such file or directory: 304
+: increment of read-only location : 305
+:  declared as function returning a function: 306
+: invalid preprocessing directive #Define; did you mean #define?: 307
+: invalid initialization of non-const reference of type  from an rvalue of type : 308
+: invalid preprocessing directive #includec; did you mean #include?: 309
+: cstream: No such file or directory: 310
+: assigning to an array from an initializer list: 311
+: invalid preprocessing directive #itxlude; did you mean #include?: 312
+: invalid preprocessing directive #itclude; did you mean #include?: 313
+: cannot declare pointer to : 314
+: invalid preprocessing directive #inclede; did you mean #include?: 315
+: invalid preprocessing directive #inclide; did you mean #include?: 316
+: nonnull argument references non-pointer operand (argument 2, operand 4): 317
+: nonnull argument references non-pointer operand (argument 2, operand 3): 318
+: narrowing conversion of  from  to  inside { } [-Wnarrowing]: 319
+: invalid preprocessing directive #while: 320
+: invalid preprocessing directive #str: 321
+: invalid preprocessing directive #*: 322
+: increment of read-only variable : 323
+: cannot resolve overloaded function  based on conversion to type : 324
+: incomplete universal character name \u1: 325
+: incomplete universal character name \u: 326
+: overloaded function with no contextual type information: 327
+: operands to ?: have different types  and : 328
+: duplicate : 329
+: csting: No such file or directory: 330
+: expected nested-name-specifier before : 331
+:  does not name a type; did : 332
+: call of overloaded  is ambiguous: 333
+: string.s: No such file or directory: 334
+: scalar object  requires one element in initializer: 335
+: invalid preprocessing directive #incllude; did you mean #include?: 336
+: declaration of  as array of references: 337
+: "0include" after # is not a positive integer: 338
+:  is not a class, struct, or union type: 339
+: char: No such file or directory: 340
+: invalid user-defined conversion from  to  [-fpermissive]: 341
+: non-member function  cannot have cv-qualifier: 342
+: stray : 343
+:  has not been: 344
+: str: No such file or directory: 345
+:  does not name a typ: 346
+: array bound is not an integer constant before  token: 347
+: reference to  is ambiguous: 348
+: could not convert 0 from  to : 349
+:  is not captured: 350
+: no match for call to : 351
+: size of array  has non-integral type : 352
+: string.j: No such file or directory: 353
+>}<brace-enclosed initializer list>rationalNumber: 354
+: variable  has initializer but incomplete type: 355
+: flexible array member  not at end of : 356
+:  is not a : 357
+: elements of array  have incomplete type: 358
+: use of parameter outside function body before  token: 359
+: invalid use of array with unspecified bounds: 360
+: stido: No such file or directory: 361
+:  cannot be used as a member pointer, since it is of type : 362
+: expected unqualified-id at end of input: 363
+:  cannot be overloaded: 364
+: with : 365
+: field  has incomplete type : 366
+: capture of non-variable  : 367
+: ixotream: No such file or directory: 368
+: template argument 2 is invalid: 369
+> > typename std::enable_if<std::__is_swappable<_Tp>::value>::type std::swap: 370
+: no default argument for : 371
+: iosrteam: No such file or directory: 372
+: expected  after class definition: 373
+: ctring: No such file or directory: 374
+: initializer provided for function: 375
+: steing: No such file or directory: 376
+: invalid preprocessing directive #�: 377
+: invalid preprocessing directive #--: 378
+>save: 379
+: invalid preprocessing directive #iclude; did you mean #include?: 380
+:  is: 381
+: iomanop: No such file or directory: 382
+: ioatream: No such file or directory: 383
+: strcpy: No such file or directory: 384
+: invalid pure specifier (only  is allowed) before numeric constant: 385
+:  has incomplete type: 386
+: invalid preprocessing directive #includestring; did you mean #include?: 387
+: only 1 name provided for structured binding: 388
+: invalid use of non-static member function : 389
+>, (x.rationalNumber::fenmu * y.rationalNumber::fenmu)}<brace-enclosed initializer list>rationalNumber: 390
+: could not convert / from  to : 391
+ in template argument list: 392
+: in argument to unary !: 393
+: algrithm: No such file or directory: 394
+: iostram: No such file or directory: 395
+: array size missing in : 396
+:  has the same name as the class in which it is declared: 397
+:311:3: note: candidate: bool std::operator==(const std::er: 398
+: new cannot be applied to a reference type: 399
+: new initializer expression list treated as compound expression [-fpermissive]: 400
+: incomplete type  used in nested name specifier: 401
+: invalid preprocessing directive #inculde; did you mean #include?: 402
+: stray  in progr: 403
+_condition&, const std::er: 404
+: new types may not be defined in a return type: 405
+: linearList.L: No such file or directory: 406
+: using typedef-name  after : 407
+: , declared using local type , is used but never defined [-fpermissive]: 408
+:  has not : 409
+: exp: 410
+: cannot bind rvalue : 411
+ Bad address: 412
+: malloch: No such file or directory: 413
+:331:3: note: candidate: b: 414
+: expected id-expression before  token: 415
+>}<brace-enclosed initializer list>node: 416
+: iostrteam: No such file or directory: 417
+: invalid preprocessing directive #t: 418
+: expected unqualified-id before user-defined string literal: 419
+: expected declaration before end of line: 420
+: too many decimal points in number: 421
+>result: 422
+:  in  does not name a type: 423
+: jump to label  [-fpermissive]: 424
+: lineList: No such file or directory: 425
+: ipstream: No such file or directory: 426
+: invalid preprocessing directive #"linearList.h": 427
+: expected constructor, destructor, or type conversion at end of input: 428
+:  has not been decla: 429
+: linearList.: No such file or directory: 430
+: assignment of member  in read-only object: 431
+: ctype: No such file or directory: 432
+: invalid preprocessing directive #defien; did you mean #define?: 433
+: use of deleted function : 434
+>judge: 435
+: ifstream: No such file or directory: 436
+: cfstream: No such file or directory: 437
+:  string: No such file or directory: 438
+: declaration of  as multidimensional array must have bounds for all dimensions except the first: 439
+: invalid preprocessing directive #incudle; did you mean #include?: 440
+: conversion to non-const reference type  from rvalue of type  [-fpermissive]: 441
+: invalid preprocessing directive #incclude; did you mean #include?: 442
+: macro "getc" passed 2 arguments, but takes just 1: 443
+: invalid preprocessing directive #incluede; did you mean #include?: 444
+: isotream: No such file or directory: 445
+: invalid preprocessing directive #unclude; did you mean #include?: 446
+ (usec) */: 447
+s (ro) */: 448
+: missing binary operator before token "(": 449
+ (FILE *__stream) __THROW __wur;: 450
+:  is not a namespace-name: 451
+: expected namespace-name before  token: 452
+."<<endl;: 453
+: bitsit: No such file or directory: 454
+: ISO C++ forbids casting to an array type : 455
+!"<<endl;: 456
+: cannot declare reference to : 457
+: invalid use of type  in parameter declaration: 458
+: invalid preprocessing directive ##: 459
+: only constructors take member initializers: 460
+: cloth: 461
+: invalid cast of an rvalue expression of type  to type : 462
+: invalid preprocessing directive #rear: 463
+: CLQ_Create: No such file or directory: 464
+: expected nested-name-specifier before  token: 465
+: SeqStack: No such file or directory: 466
+: two consecutive  shall only introduce an attribute before  token: 467
+: CLnkQueue: No such file or directory: 468
+_r (int __errnum, char *__buf, size_t __buflen): 469
+_code1 Stack<elementType>::push(elementType x) {: 470
+_code1 Stack <elementType>::get_top(elementType& x) {: 471
+_code1 Stack<elementType>::pop() {: 472
+: stdio.h>in: No such file or directory: 473
+: case label ( not within a switch statement: 474
+: case label ) not within a switch statement: 475
+: stra: 476
+: invalid use of void expression: 477
+: case label < not within a switch statement: 478
+: case label > not within a switch statement: 479
+: case label = not within a switch statement: 480
+: invalid pure specifier (only  is allowed) before  token: 481
+(const char*): 482
+ (const char *__s);: 483
+: expected id-expression before : 484
+: request for member  in \000, which is of non-class type : 485
+: a function-definition is not allowed he: 486
+: declaration of  as parameter: 487
+:  not defined: 488
+: invalid preprocessing directive #j: 489
+: srring.g: No such file or directory: 490
+: a function-definition is not allowed : 491
+: stdlib: No such file or directory: 492
+: String: No such file or directory: 493
+: expected  or  at end of input: 494
+: ISO C++ forbids casting to an array type  [-fpermissive]: 495
+: indLnkHash: No such file or directory: 496
+: algoright: No such file or directory: 497
+:  was not declared in this scope, and no declarations were found by argument-dependent lookup at the point of instantiation [-fpermissive]: 498
+: no post-decrement operator for type: 499
+: address of overloaded function with no contextual type information: 500
+: stdio.h>http: No such file or directory: 501
+: algorihtm: No such file or directory: 502
+: algrothm: No such file or directory: 503
+: expected class-name before  token: 504
+: invalid preprocessing directive #DEFINE: 505
+: stream: No such file or directory: 506
+: invalid preprocessing directive #invlude; did you mean #include?: 507
+: "*" may not appear in macro parameter list: 508
+: macro "InorderTravers" requires 2 arguments, but only 1 given: 509
+: ISO C++ forbids applying  to an expression of function type [-fpermissive]: 510
+: unterminated argument list invoking macro "HasEdge": 511
+: macro "In__" requires 2 arguments, but only 1 given: 512
+: "!=" may not appear in macro parameter list: 513
+: macro "Out__" requires 2 arguments, but only 1 given: 514
+: unterminated argument list invoking macro "In__": 515
+: ">" may not appear in macro parameter list: 516
+: ">=" may not appear in macro parameter list: 517
+: macro "push" requires 2 arguments, but only 1 given: 518
+:  in namespace  does not name a template type: 519
+: macro "HasEdge" requires 2 arguments, but only 1 given: 520
+: "<" may not appear in macro parameter list: 521
+: macro "pop" requires 2 arguments, but only 1 given: 522
+: macro "Out__" passed 2 arguments, but takes just 1: 523
+: macro "In__" passed 2 arguments, but takes just 1: 524
+: invalid preprocessing directive #de: 525
+: invalid preprocessing directive #defineOut__; did you mean #define?: 526
+: "->" may not appear in macro parameter list: 527
+: "==" may not appear in macro parameter list: 528
+: "[" may not appear in macro parameter list: 529
+: invalid preprocessing directive #undefine; did you mean #define?: 530
+: invalid preprocessing directive #defineHasEdge: 531
+: macro "Check__" passed 2 arguments, but takes just 0: 532
+: "1" may not appear in macro parameter list: 533
+: decomposition declaration cannot be declared : 534
+: no macro name given in #undef directive: 535
+: invalid preprocessing directive #under; did you mean #undef?: 536
+: invalid preprocessing directive #nudef; did you mean #ifdef?: 537
+: invalid preprocessing directive #Undef; did you mean #undef?: 538
+: "." may not appear in macro parameter list: 539
+: cannot decompose lambda closure type : 540
+: directInsSort: No such file or directory: 541
+: no macro name given in #define directive: 542
+: Stack: No such file or directory: 543
+: invalid preprocessing directive #defint; did you mean #define?: 544
+: invalid preprocessing directive #degine; did you mean #define?: 545
+: unterminated argument list invoking macro "Push__": 546
+: macro "Push_" requires 2 arguments, but only 1 given: 547
+: invalid preprocessing directive #HasEdge: 548
+: macro "Push__" requires 2 arguments, but only 1 given: 549
+: invalid preprocessing directive #uneNotEmpty: 550
+:  is not followed by a macro parameter: 551
+: unterminated argument list invoking macro "Out__": 552
+: expected type-specifier before numeric constant: 553
+: size of array  is not an integral constant-expression: 554
+: extra qualification  on member  [-fpermissive]: 555
+: weakref  must have static linkage: 556
+:  is private within this context: 557
+:  was not declar: 558
+: default arguments are only permitted for function parameters [-fpermissive]: 559
+: invalid preprocessing directive #endiy; did you mean #endif?: 560
+: function definition does not declare parameters: 561
+: no  member function declared in class : 562
+: a storage class can only be specified for objects and functions: 563
+: invalid use of member  in static member function: 564
+: explicit qualification in declaration of : 565
+:  was not declared in: 566
+: name  has incomplete type: 567
+: prototype for  does not match any in class : 568
+: candidate is: void Int::setValue(): 569
+: invalid preprocessing directive #int: 570
+: candidate is: void Int::setvalue(): 571
+: candidate is: void Int::getvalue(): 572
+: candidate is: void Int::getvalue(int): 573
+>Int::value: 574
+:  names the constructor, not the type: 575
+: default argument missing for parameter 2 of : 576
+: returning a value from a constructor: 577
+: invalid constructor; you probably meant : 578
+:  qualifiers cannot be applied to : 579
+: constructors may not be cv-qualified: 580
+: return type specification for constructor invalid: 581
+: uninitialized reference member in  [-fpermissive]: 582
+: anachronistic old-style base class initializer [-fpermissive]: 583
+: unnamed initializer for , which has no base classes: 584
+: invalid use of non-static data member : 585
+: passing  as  argument discards qualifiers [-fpermissive]: 586
+: candidates are: constexpr Int::Int(Int&&): 587
+:                 constexpr Int::Int(const Int&): 588
+:                 Int::Int(int): 589
+:                 Int::Int(Int (*)()): 590
+: initializer specified for non-virtual method : 591
+:                 Int::Int(): 592
+: expected class-name before : 593
+: call to  uses the default argument for parameter 1, which is not yet defined: 594
+: definition of implicitly-declared : 595
+: candidates are: constexpr Int::Int(const Int&): 596
+: uninitialized reference member in : 597
+: invalid pure specifier (only  is allowed) before : 598
+: cannot call member function  without object: 599
+: expected namespace-name before : 600
+: declaration of  as non-member: 601
+: candidate is: int Int::getValue() const: 602
+:  must take exactly two arguments: 603
+:  must be a nonstatic member function: 604
+: Int.H: No such file or directory: 605
+: iostrean: No such file or directory: 606
+: Int: No such file or directory: 607
+: invalid preprocessing directive #includeInt; did you mean #include?: 608
+:  was declared  and later  [-fpermissive]: 609
+: binding reference of type  to  discards qualifiers: 610
+: invalid preprocessing directive #inclued; did you mean #include?: 611
+: instream: No such file or directory: 612
+: iostreaam: No such file or directory: 613
+: Int.h : No such file or directory: 614
+: >iostrea: No such file or directory: 615
+: declaration of  outside of class is not definition [-fpermissive]: 616
+:  used outside of class: 617
+: candidates are: Int::Int(int): 618
+:                 Int::Int(const Int&): 619
+: invalid preprocessing directive #incluude; did you mean #include?: 620
+: math,h: No such file or directory: 621
+: cannot call constructor  directly [-fpermissive]: 622
+: assignment of read-only reference : 623
+: invalid preprocessing directive #includde; did you mean #include?: 624
+: iostream。: No such file or directory: 625
+:  must take either zero or one argument: 626
+:  must take exactly one argument: 627
+: iosream: No such file or directory: 628
+: invalid preprocessing directive #Include; did you mean #include?: 629
+: invalid preprocessing directive #inlude; did you mean #include?: 630
+: invalid preprocessing directive #: 631
+: candidate is: Int Int::operator+(const Int&): 632
+: candidate is: Int Int::operator-(const Int&): 633
+: candidate is: Int Int::operator*(const Int&): 634
+: candidate is: Int Int::operator/(const Int&): 635
+: candidate is: Int Int::operator%(const Int&): 636
+: invalid preprocessing directive #indlude; did you mean #include?: 637
+: iotream: No such file or directory: 638
+9:9: note: declared private here: 639
+: expected string-literal at end of input: 640
+: expected identifier at end of input: 641
+: invalid preprocessing directive #inude; did you mean #include?: 642
+: iosteram: No such file or directory: 643
+: main: No such file or directory: 644
+: #if with no expression: 645
+: candidate is: void Int::setValue(int): 646
+: invalid use of destructor  as a type: 647
+: invalid preprocessing directive #ifndef_INT_H_: 648
+: invalid preprocessing directive #define_INT_H_: 649
+: iostream>usin: No such file or directory: 650
+: candidate is: int Int::getValue(): 651
+: ionstream: No such file or directory: 652
+: iostrem: No such file or directory: 653
+: iostteam: No such file or directory: 654
+: candidate is: void Int::getValue(): 655
+: invalid preprocessing directive #nclude; did you mean #include?: 656
+: invalid preprocessing directive #inciude; did you mean #include?: 657
+: destructors may not have parameters: 658
+: Int h: No such file or directory: 659
+: candidate is: void Int::getValue(int): 660
+: expression list treated as compound expression in mem-initializer [-fpermissive]: 661
+: int . h: No such file or directory: 662
+: invalid preprocessing directive #inlclde; did you mean #include?: 663
+: non-member function  cannot have ref-qualifier: 664
+: Int,h: No such file or directory: 665
+: candidate is: bool Int::operator==(const Int&): 666
+: candidate is: bool Int::operator!=(const Int&): 667
+: candidate is: bool Int::operator<(const Int&): 668
+: candidate is: bool Int::operator<=(const Int&): 669
+: candidate is: bool Int::operator>(const Int&): 670
+: candidate is: bool Int::operator>=(const Int&): 671
+: main.app: No such file or directory: 672
+: candidate is: constexpr Int& Int::operator=(const Int&): 673
+: iostreeam: No such file or directory: 674
+: mixing declarations and function-definitions is forbidden: 675
+: invalid preprocessing directive #iniostreamclude: 676
+: invalid use of  at top level: 677
+: candidate is: Int& Int::operator=(const Int&): 678
+: candidate is: Int& Int::operator+=(const Int&): 679
+: invalid preprocessing directive #endi; did you mean #endif?: 680
+: invalid preprocessing directive #en: 681
+: invalid preprocessing directive #e: 682
+: invalid preprocessing directive #innclude; did you mean #include?: 683
+: invalid preprocessing directive #in; did you mean #if?: 684
+: ISO C++ forbids taking the address of a bound member function to form a pointer to member function.  Say  [-fpermissive]: 685
+: iostresm: No such file or directory: 686
+: taking address of temporary [-fpermissive]: 687
+: invalid preprocessing directive #"Int.h": 688
+: invalid preprocessing directive #included; did you mean #include?: 689
+: manip: No such file or directory: 690
+: array size in new-expression must be constant: 691
+: candidates are: Int Int::operator++(int): 692
+:                 Int& Int::operator++(): 693
+: candidates are: Int Int::operator--(int): 694
+:                 Int& Int::operator--(): 695
+: postfix  must take  as its argument: 696
+: return type specification for destructor invalid: 697
+: ambiguous overload for  (operand types are  and ): 698
+: candidate is: Int& Int::operator-=(const Int&): 699
+: candidate is: Int& Int::operator*=(const Int&): 700
+: candidate is: Int& Int::operator/=(const Int&): 701
+: candidate is: Int& Int::operator%=(const Int&): 702
+: IntOp,h: No such file or directory: 703
+:  is protected within this context: 704
+: specializing member  requires  syntax: 705
+: invalid preprocessing directive #linclude; did you mean #include?: 706
+: invalid preprocessing directive #iostream: 707
+: returning a value from a destructor: 708
+: invalid preprocessing directive #includetg; did you mean #include?: 709
+: decrement of read-only location : 710
+: candidates are: Array::Array(int, int): 711
+:                 Array::Array(const int*, int): 712
+:                 Array::Array(const Array&): 713
+:                 Array::Array(): 714
+: declaration of  has a different exception specifier: 715
+(_func_);: 716
+)throw _func_;: 717
+){throw _func_;}: 718
+){throw "insert";}: 719
+: candidates are: const int& Array::operator[](int) const: 720
+:                 int& Array::operator[](int): 721
+: candidate is: Array& Array::operator=(const Array&): 722
+: stdexcapt: No such file or directory: 723
+: candidate is: void Array::remove(int): 724
+: candidate is: void Array::insert(int, int): 725
+: stdexpect: No such file or directory: 726
+: iodtream: No such file or directory: 727
+: candidate is: int Array::at(int) const: 728
+("overflow_errer);: 729
+: candidate is: void Array::disp() const: 730
+(s);}: 731
+: expected type-specifier: 732
+: throw: No such file or directory: 733
+(s)};: 734
+(const char*) _GLIBCXX_TXN_SAFE;: 735
+(const string&): 736
+(const string& __arg) _GLIBCXX_TXN_SAFE;: 737
+: creating array of references: 738
+: expression in new-declarator must have integral or enumeration type: 739
+: duplicate cv-qualifier: 740
+: candidate is: void Array::modify(int, int): 741
+: invalid preprocessing directive #define_func_; did you mean #define?: 742
+("invalid_argument");}: 743
+("");}: 744
+ invalid_argument){: 745
+: stdexcpt: No such file or directory: 746
+: stdcexcept: No such file or directory: 747
+: array used as initializer: 748
+(s);};: 749
+(__func__);: 750
+("insert")}: 751
+("remove")}: 752
+("at")}: 753
+("modify")}: 754
+("insert");}: 755
+("remove");}: 756
+("at");}: 757
+("modify");}: 758
+("This function is %s.\n", __func__ );}: 759
+(const char [22], const char [7]): 760
+(const char [22], const char [3]): 761
+(__func__ );}: 762
+("insert);: 763
+ (_func_);: 764
+: func: No such file or directory: 765
+(__func__);}: 766
+: Array: No such file or directory: 767
+: staexcept: No such file or directory: 768
+: increment of member  in read-only object: 769
+("Array");: 770
+ );}return data[pos];}: 771
+ );}for(int i=0;i<size;++i){: 772
+: cannot delete a function.  Only pointer-to-objects are valid arguments to : 773
+: iosmanip: No such file or directory: 774
+>}main()::<lambda()>char: 775
+>}main()::<lambda()>signed char: 776
+>}main()::<lambda()>unsigned char: 777
+>}main()::<lambda()>const char*: 778
+>}main()::<lambda()>const signed char*: 779
+>}main()::<lambda()>const unsigned char*: 780
+: cannot convert  to  in argument passing: 781
+ Not a directory: 782
+:the divisor cannot be 0")}: 783
+:  or  invalid for : 784
+: iomanip.p: No such file or directory: 785
+: invalid preprocessing directive #scanf: 786
+: converting to  from  requires direct-initialization [-fpermissive]: 787
+: iostream.: No such file or directory: 788
+: i0manip: No such file or directory: 789
+: iomainip: No such file or directory: 790
+: case label } not within a switch statement: 791
+ when push element to the stack!\n");: 792
+ when pop element of the stack top!\n");: 793
+: array bound forbidden after parenthesized type-id: 794
+: camth: No such file or directory: 795
+: invalid preprocessing directive #math: 796
+: invalid preprocessing directive #includee; did you mean #include?: 797
+: ArrayList: No such file or directory: 798
+: candidates are: ArrayList::ArrayList(int, int): 799
+:                 ArrayList::ArrayList(const int*, int): 800
+:                 ArrayList::ArrayList(const ArrayList&): 801
+:                 ArrayList::ArrayList(): 802
+: candidate is: int ArrayList::at(int) const: 803
+: candidate is: void ArrayList::insert(int, int): 804
+: explicit instantiation of  before definition of template: 805
+: return type  is incomplete: 806
+: candidate is: void ArrayList::remove(int): 807
+: candidate is: void ArrayList::disp() const: 808
+: invalid preprocessing directive #incluse; did you mean #include?: 809
+: candidates are: const int& ArrayList::operator[](int) const: 810
+:                 int& ArrayList::operator[](int): 811
+_(__func__);: 812
+: candidate is: ArrayList& ArrayList::operator=(const ArrayList&): 813
+: candidate is: int ArrayList::getSize() const: 814
+: virt-specifiers in  not allowed outside a class definition: 815
+_msg_.c_str(); }: 816
+_msg_: 817
+:  outside class declaration: 818
+: iostream0: No such file or directory: 819
+("insert");: 820
+: expected initializer before string constant: 821
+: invalid preprocessing directive #includpandaw; did you mean #include_next?: 822
+: invalid preprocessing directive #ifndefine; did you mean #define?: 823
+: candidate is: int& ArrayList::operator[](int): 824
+: multiple initializations given for : 825
+: ArrayList.op: No such file or directory: 826
+: ArrayListOp: No such file or directory: 827
+: stdexceot: No such file or directory: 828
+(" ");: 829
+: invalid preprocessing directive #i; did you mean #if?: 830
+: iostream》: No such file or directory: 831
+: algoritmn: No such file or directory: 832
+: algoritm: No such file or directory: 833
+: missing template arguments before : 834
+: invalid preprocessing directive #printf: 835
+: declaration of : 836
+:  has both  and initializer: 837
+>root: 838
+: invalid static_cast from type  to type : 839
+: invalid use of template-name  without an argument list: 840
+: template argument required for : 841
+: iosteaream: No such file or directory: 842
+: wrong number of template arguments (0, should be at least 1): 843
+:  needed for in-class initialization of static data member  of non-integral type [-fpermissive]: 844
+:  used without template parameters: 845
+:  stack.h : No such file or directory: 846
+: stack.h : No such file or directory: 847
+: invalid preprocessing directive #return: 848
+: no pre-increment operator for type: 849
+: invalid declarator before : 850
+: invalid declarator before  token: 851
+: array must be initialized with a brace-enclosed initializer [-fpermissive]: 852
+: binary_tree: No such file or directory: 853
+: candidate is: void LinkedList::disp() const: 854
+: candidate is: void LinkedList::insert(int, int): 855
+: candidate is: int LinkedList::at(int) const: 856
+: candidate is: LinkedList::Node* LinkedList::advance(int) const: 857
+: candidate is: void LinkedList::remove(int): 858
+: st: No such file or directory: 859
+: invalid preprocessing directive #depslib: 860
+: candidates are: LinkedList::LinkedList(int, int): 861
+:                 LinkedList::LinkedList(const int*, int): 862
+:                 LinkedList::LinkedList(const LinkedList&): 863
+:                 LinkedList::LinkedList(): 864
+: candidates are: LinkedList::LinkedList(const int*, int): 865
+: candidate is: int& LinkedList::operator[](int): 866
+: using-declaration for non-member at class scope: 867
+: candidate is: int LinkedList::compareTo(const LinkedList&): 868
+: candidates are: void LinkedList::disp(int&) const: 869
+:                 void LinkedList::disp() const: 870
+: use of  in a constant expression: 871
+: LinkedList: No such file or directory: 872
+: candidate is: int LinkedList::getSize() const: 873
+: candidates are: const int& LinkedList::operator[](int) const: 874
+:                 int& LinkedList::operator[](int): 875
+: LinkedList.h": No such file or directory: 876
+: type  is not a direct base of : 877
+:  is inaccessible within this context: 878
+:  is not an accessible base of : 879
+: constructor delegates to itself: 880
+: candidates are: constexpr LinkedList::LinkedList(LinkedList&&): 881
+:                 constexpr LinkedList::LinkedList(const LinkedList&): 882
+: candidates are: constexpr ArrayList::ArrayList(ArrayList&&): 883
+:                 constexpr ArrayList::ArrayList(const ArrayList&): 884
+: multiple initializations given for base : 885
+: List: No such file or directory: 886
+: cannot declare variable  to be of abstract type : 887
+: candidate is: virtual void LinkedList::disp(std::ostream&) const: 888
+: candidate is: void LinkedList::disp(std::ostream&) const: 889
+: cannot define member function  within : 890
+: invalid new-expression of abstract class type : 891
+: candidate is: virtual int LinkedList::at(int) const: 892
+: conflicting return type specified for : 893
+:   overriding : 894
+: candidate is: virtual int ArrayList::at(int) const: 895
+: candidate is: void LinkedList::disp(int&) const: 896
+: candidate is: virtual void ArrayList::insert(int, int): 897
+: invalid preprocessing directive #inclu; did you mean #include?: 898
+: virtual functions cannot be friends: 899
+: field  with same name as class [-fpermissive]: 900
+: parenthesized initializer in array new [-fpermissive]: 901
+: candidate is: virtual void LinkedList::modify(int, int): 902
+: invalid cast to abstract class type : 903
+: candidate is: virtual void ArrayList::remove(int): 904
+: cannot declare member function  within : 905
+: candidate is: virtual void LinkedList::disp(int&) const: 906
+: unterminated #ifdef: 907
+: candidate is: virtual void LinkedList::insert(int, int): 908
+: invalid type argument of  (have ): 909
+: invalid preprocessing directive #incl; did you mean #include?: 910
+: constructors cannot be declared  [-fpermissive]: 911
+: candidate is: virtual void ArrayList::modify(int, int): 912
+: cannot declare pointer to  member: 913
+: expected paramet: 914
+: declaration of  [-fpermissive]: 915
+: changes meaning of  from  [-fpermissive]: 916
+: invalid class name in declaration of : 917
+: algorihm: No such file or directory: 918
+: too many arguments to function: 919
+: algorrithm: No such file or directory: 920
+: algorigthm: No such file or directory: 921
+: alrigothm: No such file or directory: 922
+: invalid preprocessing directive #type: 923
+: invalid preprocessing directive #print: 924
+: token "." is not valid in preprocessor expressions: 925
+: unable to deduce  from : 926
+: inconsistent types  and  deduced for lambda return type: 927
+: memery: No such file or directory: 928
+: parameter  includes pointer to array of unknown bound : 929
+: second operand to the conditional operator is of type , but the third operand is neither a throw-expression nor of type : 930
+: multidimensional array must have bounds for all dimensions except the first: 931
+: third operand to the conditional operator is of type , but the second operand is neither a throw-expression nor of type : 932
+: iostream>htt: No such file or directory: 933
+:   queue: No such file or directory: 934
+: invalid preprocessing directive #Node: 935
+: invalid preprocessing directive #que: 936
+: macro "S_ISDIR" passed 2 arguments, but takes just 1: 937
+_condition const&) const: 938
+_condition]+0xa9): undefined reference to `boost::system::generic_category(): 939
+_condition]+0xe4): undefined reference to `boost::system::generic_category(): 940
+_code const&, int) const: 941
+_codei]+0xa9): undefined reference to `boost::system::generic_category(): 942
+_codei]+0xe4): undefined reference to `boost::system::generic_category(): 943
+_codei]+0x1bf): undefined reference to `boost::system::generic_category(): 944
+: cio: No such file or directory: 945
+: unistd: No such file or directory: 946
+: QHostAddress: No such file or directory: 947
+: stray  in p: 948
+: wrong number of template arguments (1, should be at least 2): 949
+: stringstream: No such file or directory: 950
+: cannot increment a pointer to incomplete type : 951
+:  cstdlib : No such file or directory: 952
+: boost: No such file or directory: 953
+: Boost: No such file or directory: 954
+: invalid preprocessing directive #finclude; did you mean #include?: 955
+: pair: No such file or directory: 956
+( path );: 957
+: invalid preprocessing directive #new: 958
+: invalid preprocessing directive #echo: 959
+ opendir %s!!!/n"folderPath);: 960
+: size of array  is too large: 961
+: invalid preprocessing directive #for: 962
+: invalid preprocessing directive #cut_num: 963
+: invalid preprocessing directive #sum_num: 964
+("opendir"),exit(-1);: 965
+: invalid preprocessing directive #inslude; did you mean #include?: 966
+: invalid preprocessing directive #inlucde; did you mean #include?: 967
+ opendir %s!!!/n",path);: 968
+: invalid preprocessing directive #IDE: 969
+: invalid preprocessing directive #a: 970
+: invalid preprocessing directive #b: 971
+: cstrido: No such file or directory: 972
+: macro "SWAP" requires 3 arguments, but only 2 given: 973
+: invalid preprocessing directive #!: 974
+: invalid preprocessing directive #-: 975
+: sort: No such file or directory: 976
+: mutiset: No such file or directory: 977
+: Algorithm: No such file or directory: 978
+: iteration: No such file or directory: 979
+\n");: 980
+: aldorithm: No such file or directory: 981
+: flexible array member  in an otherwise empty : 982
+: initializer for flexible array member : 983
+: algorithnm: No such file or directory: 984
+: friend declaration  in local class without prior declaration: 985
+: qualified-id in declaration before : 986
+: no macro name given in #ifndef directive: 987
+: vector/: No such file or directory: 988
+>, , }<brace-enclosed initializer list>std::vector<char>: 989
+: converting to  from initializer list would use explicit constructor : 990
+: invalid preprocessing directive #iinclude; did you mean #include?: 991
+: invalid preprocessing directive #icnlude; did you mean #include?: 992
+: inconsistent deduction for :  and then : 993
+: algroithm: No such file or directory: 994
+: cstirng: No such file or directory: 995
+: could not convert - from  to : 996
+:311:3: note:   no known conversion for argument 1 : 997
+: Task.hpp: No such file or directory: 998
+: assignment of read-only member : 999
+: too many template-parameter-lists: 1000
+: canoperator<: 1001
+: alogrithm: No such file or directory: 1002
+:  algorithm: No such file or directory: 1003
+: static member  cannot be a bit-field: 1004
+:  is too long for GCC: 1005
+: ISO C++ forbids in-class initialization of non-const static member : 1006
+: itrator: No such file or directory: 1007
+: ietrator: No such file or directory: 1008
+: use of local variable with automatic storage from containing function: 1009
+: non-static reference member , can: 1010
+: invalid preprocessing directive #Add: 1011
+: invalid preprocessing directive #Find; did you mean #line?: 1012
+: invalid preprocessing directive #Can: 1013
+: invalid preprocessing directive #Distance: 1014
+: invalid preprocessing directive #Sum: 1015
+: canoperator>: 1016
+: math.: No such file or directory: 1017
+: stray  in progra: 1018
+: algrothim: No such file or directory: 1019
+: priority_queue: No such file or directory: 1020
+: alghrithm: No such file or directory: 1021
+: sstring: No such file or directory: 1022
+: type/value mismatch at argument 2 in template parameter list for : 1023
+: iostream>in: No such file or directory: 1024
+: cstring》: No such file or directory: 1025
+: temporary of non-literal type  in a constant expression: 1026
+: cannot bind rvalue m coming,Hunan Normal University!\012")short int&: 1027
+: cannot bind rvalue m coming,Hunan Normal University!\012")short unsigned int&: 1028
+: cannot bind rvalue m coming,Hunan Normal University!\012")int&: 1029
+: cannot bind rvalue m coming,Hunan Normal University!\012")unsigned int&: 1030
+: cannot bind rvalue m coming,Hunan Normal University!\012")long int&: 1031
+: cannot bind rvalue m coming,Hunan Normal University!\012")long unsigned int&: 1032
+: cannot bind rvalue m coming,Hunan Normal University!\012")long long int&: 1033
+: cannot bind rvalue m coming,Hunan Normal University!\012")long long unsigned int&: 1034
+: cannot bind rvalue m coming,Hunan Normal University!\012"))void*&: 1035
+: iostream : No such file or directory: 1036
+: cannot bind rvalue m coming, Hunan Normal University!")short int&: 1037
+: cannot bind rvalue m coming, Hunan Normal University!")short unsigned int&: 1038
+: cannot bind rvalue m coming, Hunan Normal University!")int&: 1039
+: cannot bind rvalue m coming, Hunan Normal University!")unsigned int&: 1040
+: cannot bind rvalue m coming, Hunan Normal University!")long int&: 1041
+: cannot bind rvalue m coming, Hunan Normal University!")long unsigned int&: 1042
+: cannot bind rvalue m coming, Hunan Normal University!")long long int&: 1043
+: cannot bind rvalue m coming, Hunan Normal University!")long long unsigned int&: 1044
+: cannot bind rvalue m coming, Hunan Normal University!"))void*&: 1045
+: invalid preprocessing directive #including; did you mean #include?: 1046
+: iostream<: No such file or directory: 1047
+: no context to resolve type of : 1048
+: stray: 1049
+: cmatch: No such file or directory: 1050
+: f: No such file or directory: 1051
+: iostre#include <iostream: No such file or directory: 1052
+: cstdllib: No such file or directory: 1053
+: algorith: No such file or directory: 1054
+: expected declaration or statement at end of input: 1055
+: expected declaration specifiers or  before string constant: 1056
+: expected identifier or  before : 1057
+: expected declaration specifiers before : 1058
+: expected , , ,  or  before  token: 1059
+: unknown type name : 1060
+: unknown type name ; did you mean ?: 1061
+: conflicting types for : 1062
+:  undeclared (first use in this function); did you mean ?: 1063
+: expected expression before : 1064
+:  undeclared (first use in this function): 1065
+: expected declaration specifiers or  before : 1066
+: expected declaration specifiers or  before  token: 1067
+: expected declaration specifiers or  before numeric constant: 1068
+: expected identifier or  before  token: 1069
+: expected expression before  token: 1070
+: expected expression at end of input: 1071
+: expected statement before  token: 1072
+: iostream: No such file or directory: 1073
+: called object is not a function or function pointer: 1074
+: expected declaration specifiers or  at end of input: 1075
+: expected , , ,  or  before : 1076
+: expected ,  or  before  token: 1077
+: invalid suffix "dln" on integer constant: 1078
+: expected declaration specifiers before numeric constant: 1079
+: expected declaration specifiers before  token: 1080
+: iossteam: No such file or directory: 1081
+: expected , , ,  or  at end of input: 1082
+: invalid preprocessing directive #incloude; did you mean #include?: 1083
+: stido.: No such file or directory: 1084
+: called object  is not a function or function pointer: 1085
+:  undeclared here (not in a function); did you mean ?: 1086
+: parameter  is initialized: 1087
+: declaration for parameter  but no such parameter: 1088
+: invalid preprocessing directive #includio; did you mean #include?: 1089
+: isPrime(): No such file or directory: 1090
+: invalid suffix "c" on floating constant: 1091
+: stdio.n: No such file or directory: 1092
+: algo: No such file or directory: 1093
+: bits/stdc++: No such file or directory: 1094
+: iomainp: No such file or directory: 1095
+: candidate is: int Task::sort(std::vector<int>): 1096
+>keep: 1097
+: invalid preprocessing directive #char: 1098
+: invalid preprocessing directive #inckude; did you mean #include?: 1099
+: QSemaphore: No such file or directory: 1100
+: 标头.hpp: No such file or directory: 1101
+: algorithmn: No such file or directory: 1102
+: stblid: No such file or directory: 1103
+: invalid preprocessing directive #endife; did you mean #endif?: 1104
+: case label 1 not within a switch statement: 1105
+: cmach: No such file or directory: 1106
+: ioarream: No such file or directory: 1107
+: Math: No such file or directory: 1108
+: cstdio: No such file or directory: 1109
+: subscripted value is neither array nor pointer nor vector: 1110
+: cstring: No such file or directory: 1111
+: string: No such file or directory: 1112
+: candidate is: void StInfo::SetInfo(int, char*, char*, char*): 1113
+: candidate is: int StInfo::PrintInfo(): 1114
+: candidate is: int Rectangle::GetArea(): 1115
+: candidate is: int Rectangle::GetArea(int, int): 1116
+: candidate is: void StInfo::SetInfo(): 1117
+: candidate is: void StInfo::PrintInfo(): 1118
+: candidate is: double Rectangle::GetArea(): 1119
+: candidate is: void Car::getv(int): 1120
+: candidate is: void Car::losev(int): 1121
+: candidate is: int StInfo::SetInfo(int, char*, char*, char*): 1122
+: candidate is: void StInfo::SetInfo(int, char, char, char): 1123
+: candidate is: void car::CloseDoor(): 1124
+: candidate is: void car::OpenDoor(): 1125
+: candidate is: void Car::CloseDoor(): 1126
+: candidate is: void Car::OpenDoor(): 1127
+: candidate is: void Car::OpenLight(): 1128
+: candidate is: void Car::CloseLight(): 1129
+: candidate is: void Car::SpeedUp(): 1130
+: candidate is: void Car::SpeedDown(): 1131
+: candidate is: void Car::CloseDoor(char*): 1132
+: candidate is: void Car::OpenDoor(char*): 1133
+: candidate is: void Car::OpenLight(char*): 1134
+: candidate is: void Car::CloseLight(char*): 1135
+: candidate is: void Car::SpeedUp(int): 1136
+: candidate is: void Car::SpeedDown(int): 1137
+: typedef name may not be a nested-name-specifier: 1138
+: invalid function declaration: 1139
+: candidate is: void Car::Getlight(): 1140
+: candidate is: void Car::Getspeed(): 1141
+: candidate is: int StInfo::SetInfo(): 1142
+: candidate is: int Rectangle::GetRectArea(): 1143
+: iosteream: No such file or directory: 1144
+: candidate is: void car::d(char): 1145
+: candidate is: void car::l(char): 1146
+: candidate is: void car::v(char): 1147
+: candidates are: constexpr StInfo::StInfo(StInfo&&): 1148
+:                 constexpr StInfo::StInfo(const StInfo&): 1149
+:                 StInfo::StInfo(): 1150
+: candidate is: int car::jiasu(): 1151
+: candidate is: int car::jiansu(): 1152
+: candidate is: void Rectangle::Set(int, int): 1153
+: candidate is: void Rectangle::set(int): 1154
+: candidate is: void Rectangle::GetArea(): 1155
+: candidate is: void Car::LightOn(int): 1156
+: candidate is: void Car::init(): 1157
+: candidate is: void Rectangle::GetAre(): 1158
+: cannot declare member function  to have static linkage [-fpermissive]: 1159
+: candidates are: constexpr Car::Car(Car&&): 1160
+:                 constexpr Car::Car(const Car&): 1161
+:                 Car::Car(): 1162
+: candidate is: std::__cxx11::string StInfo::PrintInfo(): 1163
+: candidate is: char Car::GetM(): 1164
+: candidate is: char Car::GetD(): 1165
+: candidate is: char Car::GetS(): 1166
+: candidate is: void StInfo::SetInfo(int, char*, char, char): 1167
+: candidate is: void StInfo::SetInfo(int, char, char*, char*): 1168
+:  declared in a non-class scope: 1169
+: candidate is: void StInfo::setInfo(int, char, char, char): 1170
+: candidate is: void StInfo::SetInfo(int, char*, char*): 1171
+: candidate is: void StInfo::setInfo(int, char*, char*, char*): 1172
+: candidate is: void Rectangle::Set(): 1173
+: candidate is: int Car::speedup(): 1174
+: candidate is: int Car::speeddown(): 1175
+: candidate is: int Car::opencardoor(): 1176
+: candidate is: int Car::closecardoor(): 1177
+: candidate is: int Car::closeheadlight(): 1178
+: candidate is: int Car::openheadlight(): 1179
+: an anonymous struct cannot have function members: 1180
+: private member  in anonymous struct [-fpermissive]: 1181
+: expected class-name before numeric constant: 1182
+: candidate is: char StInfo::name(): 1183
+: candidate is: int StInfo::SID(): 1184
+: candidate is: char StInfo::phone(): 1185
+: IOSTREAM: No such file or directory: 1186
+: STRING: No such file or directory: 1187
+: candidate is: void StInfo::Setlnfo(int, char*, char*): 1188
+: candidates are: int StInfo::SetInfo(int, char*, char*, char*): 1189
+:                 void StInfo::SetInfo(): 1190
+: candidate is: void StInfo::setStInfo(int, char*, char*, char*): 1191
+: candidate is: bool car::openthedoor(): 1192
+: candidate is: void StInfo::setInfo(int, char): 1193
+: candidate is: void StInfo::printInfo(char): 1194
+: candidate is: void StInfo::setstinfo(int): 1195
+: case label 7 not within a switch statement: 1196
+: candidate is: int StInfo::setInfo(int, char*, char*, char*): 1197
+: candidate is: int StInfo::printInfo(): 1198
+: candidate is: void StInfo::setInfo(int, char*, int, char*, char*): 1199
+: candidate is: void StInfo::SetInfo(int, char*, int, char*, char*): 1200
+: candidate is: void StInfo::PubFun(): 1201
+: candidate is: void StInfo::PriFun(): 1202
+: candidate is: void stinfo::setinfo(int, char*, int*, char*): 1203
+: candidate is: void stinfo::setinfo(int, char*, char*): 1204
+: candidate is: void StInfo::setInfo(): 1205
+: candidate is: void StInfo::setInfo(int, char*, char*): 1206
+: candidate is: void Car::opendoor(): 1207
+: candidate is: void Car::zengsu(): 1208
+: candidate is: void Car::jiansu(): 1209
+: candidate is: void StInfo::SetInfo(char*, char*, int): 1210
+: candidate is: int StInfo::SetInfo(char*, char*, int): 1211
+: candidate is: int StInfo::showStInfo(): 1212
+:                 StInfo::StInfo(int, char*, char*, char*): 1213
+:                 StInfo::StInfo(int, char*, char*): 1214
+: candidate is: int StInfo::PrintfInfo(): 1215
+: Cstring: No such file or directory: 1216
+: candidate is: void StInfo::Setinfo(int, char*, char*): 1217
+: candidate is: void StInfo::Setinfo(int, char*, char*, char*): 1218
+: candidate is: void StInfo::SetInfo(int, std::__cxx11::string, std::__cxx11::string, int): 1219
+: default argument given for parameter 1 of  [-fpermissive]: 1220
+: default argument given for parameter 1 of : 1221
+: candidate is: void Rectangle::SetRectArea(int, int): 1222
+: candidate is: void Rectangle::GetRectArea(): 1223
+: candidate is: void Rectangle::set(int*, int*): 1224
+: candidate is: char car::closedoor(): 1225
+: candidate is: char car::closelight(): 1226
+: candidate is: int car::addspood(int): 1227
+: candidate is: int car::reducespood(int): 1228
+: candidate is: void StInfo::PrintInfo(int): 1229
+: candidate is: void StInfo::publicFunc(): 1230
+: candidate is: void StInfo::Setinfo(int, int*, int*, char*): 1231
+: candidate is: Rectangle Rectangle::GetArea(): 1232
+:  should have been declared inside : 1233
+: candidates are: Car::Car(Car&&): 1234
+:                 Car::Car(const Car&): 1235
+: candidate is: int StInfo::stInfo(int, int, std::__cxx11::string, std::__cxx11::string): 1236
+: candidate is: int StInfo::setInfo(int, std::__cxx11::string, std::__cxx11::string, std::__cxx11::string): 1237
+: candidate is: int Rectangle::GetRect(): 1238
+: candidate is: void Car::choose(): 1239
+: candidate is: void Car::choose(char*): 1240
+: candidate is: Rectangle Rectangle::GetRect(int, int): 1241
+: storage class specifiers invalid in parameter declarations: 1242
+: storage class specified for parameter : 1243
+: candidate is: void StInfo::Setlnfo(int, char*, char*, char*): 1244
+: candidate is: void StInfo::printinfo(): 1245
+: candidates are: constexpr car::car(car&&): 1246
+:                 constexpr car::car(const car&): 1247
+:                 car::car(): 1248
+: candidate is: void Stlnfo::Setlnfo(int, char*, char*): 1249
+: candidate is: int Car::Acc(int): 1250
+: candidates are: void StInfo::SetInfo(char*): 1251
+:                 void StInfo::SetInfo(int, char*, char*): 1252
+: candidate is: void Car::open_door(): 1253
+: candidate is: void StInfo::PrintInfo(int, char*, char*, char*): 1254
+: candidate is: void StInfo::setinfo(int, char, char, char): 1255
+: candidate is: void StInfo::setinfo(): 1256
+: candidate is: void StInfo::SetInfo(int, int, int, int): 1257
+: stray  at end of member declaration: 1258
+: candidate is: void Car::print(std::__cxx11::string): 1259
+:  is already declared in this scope: 1260
+: iosstring: No such file or directory: 1261
+: iostring: No such file or directory: 1262
+> ><unresolved overloaded function type>char: 1263
+> ><unresolved overloaded function type>signed char: 1264
+> ><unresolved overloaded function type>unsigned char: 1265
+> ><unresolved overloaded function type>const char*: 1266
+> ><unresolved overloaded function type>const signed char*: 1267
+> ><unresolved overloaded function type>const unsigned char*: 1268
+: candidate is: int StInfo::SetInfo(int, char*, char*, char): 1269
+: candidate is: int Rectangle::GetArea(int): 1270
+: candidate is: void Rectangle::GetArea(int): 1271
+: unknown array size in delete: 1272
+: candidate is: StInfo StInfo::SetInfo(int, char*, char*, char*): 1273
+: candidate is: car car::jiansu(): 1274
+:  may not be used when defining (as opposed to declaring) a static data member [-fpermissive]: 1275
+: candidate is: int Rectangle::GetRect(int, int): 1276
+: candidate is: int Rectangle::GetArea(Rectangle&): 1277
+: duplicate initialization of : 1278
+: candidate is: int StInfo::SetInfo(int, char*): 1279
+: candidate is: void StInfo::Getphone(): 1280
+: candidate is: char StInfo::Getphone(): 1281
+: invalid preprocessing directive #using: 1282
+: call to  uses the default argument for parameter 2, which is not yet defined: 1283
+: candidate is: void StInfo::get_banji(): 1284
+: candidate is: void StInfo::get_xuehao(): 1285
+: ioastream: No such file or directory: 1286
+: invalid preprocessing directive #intclude; did you mean #include?: 1287
+: bits/stdc++,h: No such file or directory: 1288
+: iostream>: No such file or directory: 1289
+: bits/std: No such file or directory: 1290
+: bits/stdc++.d: No such file or directory: 1291
+: invalid preprocessing directive #niclude; did you mean #include?: 1292
+: swap: No such file or directory: 1293
+: local class  shall not have static data member  [-fpermissive]: 1294
+: type mismatch with previous external decl of  [-fpermissive]: 1295
+: candidates are: Student::Student(Student&&): 1296
+:                 Student::Student(const Student&): 1297
+:                 Student::Student(): 1298
+: candidates are: Student::Student(const Student&): 1299
+: candidates are: constexpr Student::Student(Student&&): 1300
+:                 constexpr Student::Student(const Student&): 1301
+:                 Student::Student(int, std::__cxx11::string): 1302
+: candidate is: void Student::student(int, std::__cxx11::string, float): 1303
+: candidate is: static void User::GetState(): 1304
+:  is a static data member; it can only be initialized at its definition: 1305
+:                 Student::Student(int, std::__cxx11::string, float): 1306
+:                 Student::Student(int, std::__cxx11::string, int): 1307
+: invalid initializer for array member : 1308
+: candidate is: static int User::GetState(): 1309
+: candidate is: void Student::sid(): 1310
+: candidate is: void Student::name(): 1311
+:  is not of type : 1312
+: candidate is: void Student::Add(int, std::__cxx11::string, float): 1313
+: candidate is: void Student::PrintAll(): 1314
+: candidate is: void Student::Average(): 1315
+:                 Student::Student(int, int, float): 1316
+: invalid initializer for structured binding declaration: 1317
+: candidate is: void User::GetState(): 1318
+: candidate is: int Student::st(int, std::__cxx11::string): 1319
+: candidates are: User::User(const User&): 1320
+:                 User::User(int, int): 1321
+: candidate is: int User::GetState(): 1322
+: static data member  in unnamed class [-fpermissive]: 1323
+: member  with constructor not allowed in anonymous aggregate: 1324
+: member  with destructor not allowed in anonymous aggregate: 1325
+: member  with copy assignment operator not allowed in anonymous aggregate: 1326
+: abstract declarator  used as declaration: 1327
+: candidate is: static User User::GetState(): 1328
+:                 User::User(): 1329
+: candidate is: int Student::std(int, std::__cxx11::string): 1330
+: candidates are: constexpr User::User(User&&): 1331
+:                 constexpr User::User(const User&): 1332
+:                 constexpr User::User(): 1333
+:                 constexpr Student::Student(): 1334
+: cannot declare static function inside another function: 1335
+: declaration of  as array of functions: 1336
+:                 User::User(std::__cxx11::string, int): 1337
+: default argument given for parameter 2 of  [-fpermissive]: 1338
+: candidate is: void Student::st(int, std::__cxx11::string): 1339
+: candidate is: void Student::set(int, char*): 1340
+:                 Student::Student(int, int): 1341
+: candidate is: void Student::set_name(std::__cxx11::string): 1342
+: candidate is: void Student::set_sco(float): 1343
+: candidates are: constexpr Student::Student(const Student&): 1344
+:                 Student::Student(int, std::__cxx11::string*): 1345
+: candidate is: void Student::setsco(float): 1346
+: candidate is: float Student::getsco(): 1347
+:                 User::User(int, std::__cxx11::string): 1348
+: candidates are: constexpr User::User(const User&): 1349
+: candidates are: User::User(User&&): 1350
+:                 User::User(const User&): 1351
+:                 User::User(std::__cxx11::string): 1352
+: candidate is: int Student::student(int): 1353
+:                 Student::Student(int): 1354
+: candidate is: int Student::Add(int, std::__cxx11::string, float): 1355
+: candidate is: int Student::PrintAll(): 1356
+: candidate is: int Student::Average(): 1357
+: candidate is: void Student::text(): 1358
+: uninitialized const member in  [-fpermissive]: 1359
+: cannot call constructor  directly: 1360
+: candidate is: void Student::Add(int, std::__cxx11::string): 1361
+: constructor cannot be static member function: 1362
+: candidate is: double Student::Average(): 1363
+: declaration of  as member of : 1364
+: default argument given for parameter 3 of  [-fpermissive]: 1365
+: default argument given for parameter 2 of : 1366
+: cstring>: No such file or directory: 1367
+: invalid preprocessing directive #def; did you mean #ifdef?: 1368
+: Killed (program cc1plus): 1369
+: case label L not within a switch statement: 1370
+: case label R not within a switch statement: 1371
+: case label c not within a switch statement: 1372
+: expected  or : 1373
+>Node::lchild: 1374
+>Node::rchild: 1375
+: uninitialized const member in : 1376
+: invalid preprocessing directive #end_if; did you mean #endif?: 1377
+: case label C not within a switch statement: 1378
+: invalid preprocessing directive #difine; did you mean #define?: 1379
+: declaration of  as array of void: 1380
+: wrong number of template arguments (3, should be 2): 1381
+: stray  in pr: 1382
+: candidate is: void Student::Setp(int, std::__cxx11::string): 1383
+: candidate is: void Student::SetA(std::__cxx11::string): 1384
+: candidate is: void Graduate::PrintResearchID(): 1385
+:  was not declared in this sc: 1386
+: candidate is: void Werewolf::SetName(std::__cxx11::string): 1387
+: candidate is: void Werewolf::SetState(int, int): 1388
+: candidate is: void Werewolf::PrintAllState(): 1389
+: bit-field  with non-integral type: 1390
+: candidate is: int Student::SetP(std::__cxx11::string): 1391
+: candidate is: int Student::GetName(): 1392
+: candidate is: void Student::set(): 1393
+:  does not name a type; did you mean : 1394
+: expected unqualified-id be: 1395
+: candidate is: int Werewolf::PrintAllState(): 1396
+: candidate is: void Student::GetName(): 1397
+: insufficient contextual information to determine type: 1398
+: candidate is: void Graduate::SetNamef(): 1399
+: candidate is: void Student::get(std::__cxx11::string): 1400
+: candidate is: int Werewolf::SetState(int, int): 1401
+: request for member  is ambiguous: 1402
+: candidate is: void Student::Set_name(std::__cxx11::string): 1403
+: candidate is: void Graduate::Set_Name2(std::__cxx11::string): 1404
+: candidate is: void Graduate::SetB(std::__cxx11::string): 1405
+: candidate is: int Wolf::PrintState(std::__cxx11::string, int): 1406
+: candidate is: int Human::PrintState(std::__cxx11::string, int): 1407
+: candidate is: int Werewolf::SetName(std::__cxx11::string): 1408
+: candidate is: void Wolf::PrintState(): 1409
+: candidate is: void Human::PrintState(): 1410
+: more than one access specifier in base-specifier before : 1411
+: invalid use of unary  on pointer to member: 1412
+:  is an inaccessible base of : 1413
+: candidate is: void Graduate::setSID(int): 1414
+: candidate is: void Student::Setname(): 1415
+: candidate is: void Graduate::PrintResearchID(int): 1416
+: candidate is: std::__cxx11::string Graduate::GetName(): 1417
+: candidate is: std::__cxx11::string Student::GetName(): 1418
+: candidate is: void Student::SSet(std::__cxx11::string, int): 1419
+: candidate is: void Student::Set(int, int, Student*): 1420
+: candidate is: int Student::get(): 1421
+: candidate is: void Student::set(int): 1422
+: candidate is: void Student::setName(std::__cxx11::string): 1423
+: candidate is: void Student::sset(std::__cxx11::string, int): 1424
+: candidate is: int Student::getname(): 1425
+: candidate is: int Student::getsid(): 1426
+: candidate is: std::__cxx11::string Student::setname(std::__cxx11::string): 1427
+: candidate is: int Student::setsid(int): 1428
+: candidate is: void Graduate::setrid(): 1429
+: candidate is: void Student::SetName(std::__cxx11::string): 1430
+: candidate is: void Student::setName(int): 1431
+: candidate is: void Graduate::print(std::__cxx11::string, int): 1432
+: candidate is: void Student::S_Set(std::__cxx11::string, int): 1433
+: candidate is: void Werewolf::PrintAllState(Werewolf): 1434
+: candidate is: void Student::show(): 1435
+: constructor delegation follows mem-initializer for : 1436
+: candidate is: void Graduate::Get(): 1437
+: candidate is: std::__cxx11::string Graduate::Get(int): 1438
+: candidate is: void Werewolf::PrintAllState(std::__cxx11::string): 1439
+: candidate is: void Graduate::name(): 1440
+: candidate is: void Student::setname(std::__cxx11::string): 1441
+: candidate is: int Student::m_sid(): 1442
+: candidate is: int Student::GetA(): 1443
+: candidate is: int Student::gid(int): 1444
+: candidate is: void Student::SetName(): 1445
+: candidate is: void Student::setSid(): 1446
+: candidate is: void Student::setName(): 1447
+: candidate is: void Graduate::setSid(): 1448
+: candidate is: void Student::SetName(int): 1449
+: candidate is: char* Student::GetB(): 1450
+: candidate is: void Graduate::SetSID(): 1451
+>}<brace-enclosed initializer list>std::__cxx11::string {aka std::__cxx11::basic_string<char>}: 1452
+: candidate is: int Student::SetName(int): 1453
+: candidate is: int Graduate::SetName2(std::__cxx11::string): 1454
+: candidate is: void Werewolf::Set(std::__cxx11::string): 1455
+: candidate is: int Student::Set(std::__cxx11::string, int, Student*): 1456
+: expected primary-expression befor: 1457
+: candidate is: std::__cxx11::string Graduate::getid(): 1458
+: candidate is: void Werewolf::SetName(int): 1459
+: member functions are implicitly friends of their class [-fpermissive]: 1460
+: candidate is: void Student::PrintSID() const: 1461
+: candidate is: void Student::PrintSID(): 1462
+: candidate is: void Student::Set(std::__cxx11::string, int): 1463
+:  declared as a  field: 1464
+: candidate is: void Wolf::PrintState() const: 1465
+: candidate is: void Human::PrintfState() const: 1466
+: candidate is: void Human::set2(): 1467
+: candidate is: void Student::setname(int): 1468
+: candidate is: int Student::c(int): 1469
+: string,h: No such file or directory: 1470
+: candidate is: int Student::GetN(): 1471
+: candidate is: void Student::Get(): 1472
+: candidate is: void Student::PrintName(): 1473
+: candidate is: Wolf Wolf::PrintState(): 1474
+: candidate is: void Wolf::Printstate(std::__cxx11::string, int): 1475
+: candidate is: void Human::Printstate(std::__cxx11::string, int): 1476
+: candidate is: int Werewolf::Setstate(int, int): 1477
+:  marked , but does not override: 1478
+: candidate is: int Chinese::NiHao(): 1479
+: candidate is: void ForRepeater::play(): 1480
+: candidate is: virtual void Repeater::Play(): 1481
+: candidate is: virtual void Rectangle::PrintArea(): 1482
+: candidate is: virtual void Circle::PrintArea(): 1483
+: candidate is: int ForRepeater::Play(): 1484
+: candidate is: int RevRepeater::Play(): 1485
+: candidate is: void RevRepeater::play(): 1486
+:  is not a base of : 1487
+: candidate is: void Repeater::play(): 1488
+: deleted function : 1489
+: overriding non-deleted function : 1490
+: pure-specifier on function-definition: 1491
+: candidate is: virtual float Circle::PrintArea(): 1492
+: candidates are: constexpr Rectangle::Rectangle(Rectangle&&): 1493
+:                 constexpr Rectangle::Rectangle(const Rectangle&): 1494
+:                 Rectangle::Rectangle(float, float): 1495
+: candidates are: constexpr Circle::Circle(Circle&&): 1496
+:                 constexpr Circle::Circle(const Circle&): 1497
+:                 Circle::Circle(float): 1498
+: candidate is: virtual void Chinese::NiHao(): 1499
+: candidate is: int ForRepeater::Play() const: 1500
+: candidate is: int RevRepeater::Play() const: 1501
+: candidate is: virtual int Rectangle::PrintArea(): 1502
+: candidate is: virtual int Circle::PrintArea(): 1503
+: candidate is: virtual double Rectangle::PrintArea(): 1504
+: candidate is: virtual double Circle::PrintArea(): 1505
+: candidate is: virtual int Chinese::NiHao(): 1506
+: candidate is: virtual void ForRepeater::Play(): 1507
+: candidate is: virtual void RevRepeater::Play(): 1508
+:                 Rectangle::Rectangle(): 1509
+: candidate is: virtual int Chinese::Nihao(): 1510
+>Chinese::string: 1511
+: candidate is: virtual std::__cxx11::string Chinese::NiHao() const: 1512
+: candidate is: virtual std::__cxx11::string Repeater::NiHao(): 1513
+: candidate is: virtual int ForRepeater::play(): 1514
+: candidate is: virtual int Repeater::play(): 1515
+: candidate is: void RevRepeater::Play(): 1516
+: candidate is: void ForRepeater::Play(int): 1517
+: candidate is: void RevRepeater::Play(int): 1518
+:                 Circle::Circle(): 1519
+: candidate is: virtual void EnglishLearner::NiHao(): 1520
+: candidate is: virtual void Repeater::NiHao(): 1521
+: candidate is: virtual float Rectangle::PrintArea(): 1522
+: cannot allocate an object of abstract type : 1523
+: expected : 1524
+: candidates are: constexpr Shape::Shape(Shape&&): 1525
+:                 constexpr Shape::Shape(const Shape&): 1526
+:                 Shape::Shape(): 1527
+: candidate is: virtual int EnglishLearner::NiHao(): 1528
+: conditional expression between distinct pointer types  and  lacks a cast: 1529
+: candidate is: float Rectangle::PrintArea(): 1530
+: candidate is: virtual int ForRepeater::Play(): 1531
+: types may not be defined in conditions: 1532
+: candidate is: virtual void Repeater::play(): 1533
+: candidate is: virtual int EnglishLearner::Nihao(): 1534
+: candidates are: constexpr Rectangle::Rectangle(const Rectangle&): 1535
+:                 Rectangle::Rectangle(float): 1536
+:                 constexpr Rectangle::Rectangle(): 1537
+: invalid covariant return type for : 1538
+: candidate is: virtual ForRepeater ForRepeater::Play(): 1539
+: candidate is: virtual RevRepeater RevRepeater::Play(): 1540
+: staio: No such file or directory: 1541
+: csdtio: No such file or directory: 1542
+: a function-definition is no: 1543
+: candidate is: void Student::Print(): 1544
+: candidate is: void Teacher::Print(): 1545
+: candidates are: Teacher::Teacher(Teacher&&): 1546
+:                 Teacher::Teacher(const Teacher&): 1547
+:                 Teacher::Teacher(const Student&): 1548
+:                 Teacher::Teacher(): 1549
+: candidate is: Complex Complex::operator*(Complex&): 1550
+:  declared as a friend: 1551
+: candidates are: constexpr Complex::Complex(Complex&&): 1552
+:                 constexpr Complex::Complex(const Complex&): 1553
+:                 Complex::Complex(float, float): 1554
+: candidate is: Complex Complex::operator+(const Complex&) const: 1555
+: candidate is: Complex Complex::operator-(const Complex&) const: 1556
+: candidate is: Complex Complex::operator*(const Complex&) const: 1557
+: candidate is: int Student::Studnet(): 1558
+: invalid preprocessing directive #includer; did you mean #include?: 1559
+: candidate is: float Complex::operator*(const Complex&) const: 1560
+: candidate is: float Complex::Print(): 1561
+: candidate is: void Complex::Print() const: 1562
+: candidate is: Complex& Complex::operator+(Complex&): 1563
+: candidate is: Complex& Complex::operator-(Complex&): 1564
+: candidate is: Complex& Complex::operator*(Complex&): 1565
+: candidate is: void Complex::getreal(): 1566
+: candidate is: void Complex::getimage(): 1567
+: candidate is: Complex Complex::operator+(const Complex&): 1568
+:                 Complex::Complex(): 1569
+: size of array is not an integral constant-expression: 1570
+: candidate is: void Complex::Print(): 1571
+:                 Teacher::Teacher(const int&): 1572
+: candidates are: constexpr Teacher::Teacher(Teacher&&): 1573
+:                 constexpr Teacher::Teacher(const Teacher&): 1574
+:                 constexpr Teacher::Teacher(): 1575
+: candidate is: Complex Complex::operator+(Complex&): 1576
+: candidate is: Complex Complex::operator-(Complex&): 1577
+: candidate is: int Matrix::Print(): 1578
+: candidate is: Complex Complex::operator-(const Complex&): 1579
+: candidate is: Complex Complex::operator*(const Complex&): 1580
+: candidate is: int Matrix::Fill(int): 1581
+: candidates are: constexpr Matrix::Matrix(Matrix&&): 1582
+:                 constexpr Matrix::Matrix(const Matrix&): 1583
+:                 constexpr Matrix::Matrix(): 1584
+: candidate is: int Matrix::Get(int, int): 1585
+:                 Complex::Complex(float&, float&): 1586
+:                 Teacher::Teacher(int, std::__cxx11::string, std::__cxx11::string): 1587
+: candidate is: int Student::Print(): 1588
+: candidate is: int Teacher::Print(int, std::__cxx11::string, std::__cxx11::string): 1589
+: candidate is: void Teacher::Print(int, std::__cxx11::string, std::__cxx11::string): 1590
+:                 Teacher::Teacher(const StudentFriend&): 1591
+: candidate is: int Complex::Print(): 1592
+:                 Teacher::Teacher(Student&): 1593
+: candidate is: int Complex::operator+(Complex&): 1594
+:  must take either one or two arguments: 1595
+: candidate is: void Complex::Print(int): 1596
+:  is neither function nor member function; cannot be declared friend: 1597
+: candidate is: void Teacher::text(int&): 1598
+: candidate is: Complex Complex::operator+(const int&) const: 1599
+: candidate is: Complex Complex::operator-(const int&) const: 1600
+: candidate is: Complex Complex::operator*(const int&) const: 1601
+: candidate is: void Matrix::Set(int, int, int) const: 1602
+: candidate is: int Matrix::Get(int, int) const: 1603
+:                 Matrix::Matrix(int, int): 1604
+: in-class initialization of static data member  of incomplete type: 1605
+>Matrix::sum: 1606
+:                 Student::Student(int, std::__cxx11::string, std::__cxx11::string): 1607
+: candidate is: void Student::getnum(): 1608
+: candidate is: void Student::getname(): 1609
+: candidate is: void Student::getsex(): 1610
+: candidate is: int Complex::operator-(Complex&): 1611
+: candidate is: int Complex::operator*(Complex&): 1612
+: candidate is: int Student::cz(int): 1613
+: candidate is: std::__cxx11::string Student::cz1(std::__cxx11::string): 1614
+: candidate is: std::__cxx11::string Student::cz2(std::__cxx11::string): 1615
+:                 Matrix::Matrix(): 1616
+: candidate is: Complex Complex::operator-(Complex): 1617
+: candidate is: Complex Complex::operator*(Complex): 1618
+: candidate is: void Matrix::Get(int, int): 1619
+:                 Complex::Complex(double, double): 1620
+: candidate is: int Teacher::Print(): 1621
+: candidates are: constexpr Matrix::Matrix(const Matrix&): 1622
+: candidate is: Complex Complex::operator+(Complex): 1623
+:                 Teacher::Teacher(int): 1624
+:                 Teacher::Teacher(Student): 1625
+: candidate is: void Matrix::Fill(int): 1626
+: candidate is: void Matrix::Set(int, int, int): 1627
+: candidate is: void Matrix::Print(): 1628
+: struct: No such file or directory: 1629
+: "f.h": No such file or directory: 1630
+: candidates are: constexpr Virus::Virus(Virus&&): 1631
+:                 constexpr Virus::Virus(const Virus&): 1632
+:                 Virus::Virus(): 1633
+: non-static const member , can: 1634
+: cmalloc: No such file or directory: 1635
+: invalid preprocessing directive #inclulde; did you mean #include?: 1636
+: fact: No such file or directory: 1637
+: invalid preprocessing directive #program; did you mean #pragma?: 1638
+: invalid preprocessing directive #includu; did you mean #include?: 1639
+: decrement of read-only variable : 1640
+: lambda-expression in unevaluated context: 1641
+: invalid preprocessing directive #backtrack: 1642
+: csdio: No such file or directory: 1643
+: stray  in pro: 1644
+\n"); return;    }: 1645
+\n");return；}: 1646
+\n"); return m;    }: 1647
+\n"); return j;    }: 1648
+\n");return;}: 1649
+\n")return;}: 1650
+\n);return;: 1651
+: conditional expression between distinct pointer types  and  lacks a cast [-fpermissive]: 1652
+ when reading elements of the slist!\n"）;: 1653
+\n"); return; }: 1654
+\n"); return;}: 1655
+");return 0;}: 1656
+ when reading elements of the slist!\n"};: 1657
+\n");return ;}: 1658
+\n");retuen;}: 1659
+: missing type-name in typedef-declaration: 1660
+: invalid preprocessing directive #Copyright: 1661
+: invalid preprocessing directive #This: 1662
+: invalid preprocessing directive #entry: 1663
+: invalid preprocessing directive #be: 1664
+: invalid preprocessing directive #The: 1665
+: invalid preprocessing directive #space: 1666
+: invalid preprocessing directive #Additionally: 1667
+: invalid preprocessing directive #lines; did you mean #line?: 1668
+: invalid preprocessing directive #For: 1669
+: "102.54.94.97" after # is not a positive integer: 1670
+: "38.25.63.10" after # is not a positive integer: 1671
+: invalid preprocessing directive #localhost: 1672
+: "127.0.0.1" after # is not a positive integer: 1673
+: invalid preprocessing directive #::: 1674
+: stdio->: No such file or directory: 1675
+");flag=1;}: 1676
+");retum;}: 1677
+");retun;}: 1678
+"); return ;}: 1679
+");return 0;: 1680
+”<<endl;: 1681
+\n");}: 1682
+"); ruturn;: 1683
+"); ruturn;}: 1684
+\n”);return;}: 1685
+: invalid cast to function type : 1686
+: Cmath: No such file or directory: 1687
+: stdio.h>voi: No such file or directory: 1688
+: stdafx。h: No such file or directory: 1689
+: stdio.hint main(): No such file or directory: 1690
+: stdio.hint main(){: No such file or directory: 1691
+: invalid preprocessing directive #stdio: 1692
+: stdio.: No such file or directory: 1693
+: expansion pattern  contains no argument packs: 1694
+: invalid use of brace-enclosed initializer list: 1695
+: iomapip: No such file or directory: 1696
+: string。h: No such file or directory: 1697
+: invalid preprocessing directive #includestdio; did you mean #include?: 1698
+: too few arguments to function: 1699
+: algorighm: No such file or directory: 1700
+: template argument 4 is invalid: 1701
+(std::__cxx11::string): 1702
+: undefined produer number detected"<<endl;return 0;}: 1703
+: static assertion failed: value type is destructible: 1704
+: invalid preprocessing directive #q: 1705
+: invalid preprocessing directive #g: 1706
+ message:line 5,division by zero");: 1707
+ message:line 1,realnum can not be translated into int type";: 1708
+ message:line 5,division by zero";: 1709
+ message:line 5,division by zero": 1710
+ message:line 1,realnum cannot be translated into int type" <<endl；: 1711
+ message:line 5,division by zero"；: 1712
+: invalid preprocessing directive #incljujjjj; did you mean #include?: 1713
+: incompatible types when assigning to type  from type : 1714
+: incompatible type for argument 1 of : 1715
+: redeclaration of  with no linkage: 1716
+: request for member  in something not a structure or union: 1717
+: invalid suffix "_____" on integer constant: 1718
+: invalid suffix "feof" on integer constant: 1719
+: incompatible type for argument 4 of : 1720
+: incompatible type for argument 2 of : 1721
+: expected identifier or  before numeric constant: 1722
+: invalid operands to binary * (have  and ): 1723
+: initializer element is not constant: 1724
+:  undeclared here (not in a function): 1725
+: stdli: No such file or directory: 1726
+!);exit 0;}: 1727
+: static declaration of  follows non-static declaration: 1728
+: invalid suffix "__fp" on integer constant: 1729
+: assignment to expression with array type: 1730
+: used struct type value where scalar is required: 1731
+: invalid operands to binary != (have  and ): 1732
+: multiple definition of : 1733
+: cannot dynamic_cast  (of type ) to type  (source is not a pointer): 1734
+(int): 1735
+std::vector<std::vector<int> >std::vector<std::vector<void> >: 1736
+: no matches converting function  to type : 1737
+: Ctime: No such file or directory: 1738
+: candidate is: void aka::Matrix::SaveAndDisplay(): 1739
+: candidate is: void aka::Matrix::IsWhiteSuccess(): 1740
+: pthread: No such file or directory: 1741
+: bits/stdc++.h>javascrip: No such file or directory: 1742
+("seget fail!\n");return 0;}//创建失败: 1743
+("semcrl fali!\n");return 0;}: 1744
+("shmget fail!\n");return 0;}: 1745
+:  has no member named ; did you : 1746
+>, ret}: 1747
+: rlib.min.hpp: No such file or directory: 1748
+: invalid preprocessing directive #deine; did you mean #define?: 1749
+: candidates are: aka::thread_struct::thread_struct(aka::thread_struct&&): 1750
+:                 aka::thread_struct::thread_struct(const aka::thread_struct&): 1751
+:                 aka::thread_struct::thread_struct(): 1752
+: "Int.h": No such file or directory: 1753
+: rhs: 1754
+: Int: 1755
+: cannot declare  to be a template: 1756
+: iostraem: No such file or directory: 1757
+: sting: No such file or directory: 1758
+: candidate is: int EvenNumber::getNext(): 1759
+: candidate is: int EvenNumber::getPrevious(): 1760
+: candidates are: constexpr EvenNumber::EvenNumber(EvenNumber&&): 1761
+:                 constexpr EvenNumber::EvenNumber(const EvenNumber&): 1762
+:                 EvenNumber::EvenNumber(int): 1763
+:                 EvenNumber::EvenNumber(): 1764
+:                 EvenNumber::EvenNumber(int&): 1765
+: candidate is: EvenNumber EvenNumber::getNext(): 1766
+: candidate is: EvenNumber EvenNumber::getPrevious(): 1767
+: candidate is: double Account::getbalance() const: 1768
+: candidate is: double Account::getannualInterestRate() const: 1769
+: candidate is: std::__cxx11::string SavingsAccount::toString(): 1770
+: candidates are: Account::Account(Account&): 1771
+:                 Account::Account(int): 1772
+:                 Account::Account(): 1773
+: candidate is: double Account::deposit(double): 1774
+: candidate is: double Account::withdraw(double): 1775
+: candidate is: virtual void Account::toString() const: 1776
+: candidate is: EvenNumber EvenNumber::getprevious(): 1777
+: candidate is: EvenNumber EvenNumber::getValue(): 1778
+: default argument given for parameter 4 of  [-fpermissive]: 1779
+: candidate is: EvenNumber EvenNumber::getNest(): 1780
+: candidates are: constexpr CheckingAccount::CheckingAccount(CheckingAccount&&): 1781
+:                 constexpr CheckingAccount::CheckingAccount(const CheckingAccount&): 1782
+:                 CheckingAccount::CheckingAccount(): 1783
+: candidate is: virtual std::__cxx11::string CheckingAccount::toString() const: 1784
+: candidates are: constexpr SavingsAccount::SavingsAccount(SavingsAccount&&): 1785
+:                 constexpr SavingsAccount::SavingsAccount(const SavingsAccount&): 1786
+:                 SavingsAccount::SavingsAccount(int, double, double, double): 1787
+>EvenNumber::oprate: 1788
+: candidate is: int EvenNumber::getValue(): 1789
+>EvenNumber::operate: 1790
+: candidates are: EvenNumber EvenNumber::operator--(int): 1791
+:                 EvenNumber EvenNumber::operator--(): 1792
+: candidate is: Rational& Rational::operator+(int): 1793
+: Arduino: No such file or directory: 1794
+: candidate is: void Account::setbalance(double): 1795
+: candidate is: void Account::setannualInterestRate(double): 1796
+: candidate is: void EvenNumber::getNext(): 1797
+: candidate is: void EvenNumber::getPrevious(): 1798
+: candidate is: void Rational::print(Rational): 1799
+: candidate is: Rational Rational::operator+(const Rational&): 1800
+: candidate is: double Account::getMonthlyInterest(): 1801
+: default argument missing for parameter 4 of : 1802
+: candidate is: EvenNumber::EvenNumber(EvenNumber&): 1803
+:  cannot have default arguments: 1804
+: candidate is: int EvenNumber::getValue(int): 1805
+: use of enum  without previous declaration: 1806
+: invalid preprocessing directive #inc: 1807
+: candidate is: virtual float Rectangle::area(): 1808
+: cannot declare parameter  to be of abstract type : 1809
+: candidate is: void Rectangle::rectangle(double, double): 1810
+: candidate is: virtual int Dog::speak(): 1811
+: candidate is: virtual int Cat::speak(): 1812
+: invalid abstract return type : 1813
+("Illegal op type!\n");: 1814
+: decrement of member  in read-only object: 1815
+: declaration of  has no initializer: 1816
+: could not convert   from  to : 1817
+: candidate is: ALgraph< <template-parameter-1-1> >::ALgraph(dt*, int, bool, bool): 1818
+: Stringh: No such file or directory: 1819
+: stringh: No such file or directory: 1820
+:  can only be specified for objects and functions: 1821
+: in-class initialization of static data member  of non-literal type: 1822
+: non-constant in-class initialization invalid for static member : 1823

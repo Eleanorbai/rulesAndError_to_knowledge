@@ -1,0 +1,507 @@
+:  was not declared in this scope: 0
+: invalid conversion from  to  [-fpermissive]: 1
+:  does not name a type: 2
+: expected primary-expression before  token: 3
+: expected  before  token: 4
+: storage size of  isn: 6
+: stray  in program: 7
+:  without a previous : 9
+: expected unqualified-id before : 10
+: expected declaration before  token: 11
+: declaration of  shadows a parameter: 13
+: ld returned 1 exit status: 14
+: expression cannot be used as a function: 15
+: expected  at end of input: 16
+: lvalue required as left operand of assignment: 17
+: continue statement not within a loop: 18
+: invalid operands of types  and  to binary : 19
+: a function-definition is not allowed here before  token: 20
+: expected initializer before : 21
+: declaration of  as non-function: 22
+:  is not a member of : 23
+:  has not been declared: 24
+: template argument 1 is invalid: 25
+:  redeclared as different kind of symbol: 26
+: expected parameter pack before : 27
+:  must return : 29
+: #include expects "FILENAME" or <FILENAME>: 30
+ No such file or directory: 33
+: lvalue required as unary  operand: 36
+: missing terminating " character: 39
+: return-statement with no value, in function returning  [-fpermissive]: 40
+: redefinition of : 43
+: invalid use of  in non-member function: 46
+: invalid type argument of unary  (have ): 48
+: cast from  to  loses precision [-fpermissive]: 49
+: unable to find numeric literal operator : 50
+: expected identifier before  token: 51
+: label  used but not defined: 52
+: no input files: 55
+: ISO C++ forbids declaration of  with no type [-fpermissive]: 56
+: too many arguments to function : 57
+: expression list treated as compound expression in functional cast [-fpermissive]: 58
+: invalid cast from type  to type : 59
+: two or more data types in declaration of : 61
+: expected constructor, destructor, or type conversion before  token: 62
+: no type named  in : 68
+: no members matching  in : 69
+: no matching function for call to : 70
+:  has no member named : 71
+:  is not a template function: 72
+:  conflicts with a previous declaration: 74
+: class  does not have any field named : 75
+: there are no arguments to  that depend on a template parameter, so a declaration of  must be available [-fpermissive]: 76
+: template definition of non-template : 78
+: type/value mismatch at argument 1 in template parameter list for : 79
+:189:40:   required from here: 80
+: using invalid field : 84
+: invalid preprocessing directive #inlcude; did you mean #include?: 89
+: unterminated #ifndef: 91
+: declaration does not declare anything [-fpermissive]: 94
+: assignment of function : 95
+: cannot convert  to  in assignment: 96
+: ISO C++ forbids comparison between pointer and integer [-fpermissive]: 97
+: empty filename in #include: 102
+: named return values are no longer supported: 103
+: incompatible types in assignment of  to : 105
+: uninitialized const  [-fpermissive]: 106
+: assignment of read-only variable : 107
+: found  in nested-name-specifier, expected : 108
+:  is not a class, namespace, or enumeration: 109
+: no match for  (operand types are  and ): 111
+_code&): 113
+:217:5: note:   template argument deduction/substitution failed:: 115
+: empty character constant: 116
+: invalid initialization of reference of type  from expression of type : 117
+: invalid types  for array subscript: 119
+: invalid use of member function  (did you forget the  ?): 120
+: decomposition declaration cannot be declared with type : 122
+: exponent has no digits: 125
+: forming reference to void: 127
+: variable or field  declared void: 129
+: request for member  in , which is of non-class type : 130
+: wrong type argument to bit-complement: 131
+ Stale file handle: 133
+: initializer in range-based  loop: 134
+:   in evaluation of : 135
+: array must be initialized with a brace-enclosed initializer: 136
+ in the function!/n");: 138
+: void value not ignored as it ought to be: 140
+: cannot bind non-const lvalue reference of type  to an rvalue of type : 141
+:39:0,: 142
+: conversion from  to non-scalar type  requested: 144
+: aggregate  has incomplete type and cannot be defined: 147
+: unable to find string literal operator  with ,  arguments: 149
+: initializer fails to determine size of : 150
+: case label  not within a switch statement: 151
+: invalid array assignment: 152
+: too many initializers for : 153
+: initializer-string for array of chars is too long [-fpermissive]: 154
+: cannot declare  to be a global variable: 155
+: #endif without #if: 157
+: switch quantity not an integer: 158
+_code& __rhs) noexcept: 159
+_condition&): 160
+: cannot bind rvalue  to : 165
+: base operand of  is not a pointer: 167
+: function  is initialized like a variable: 169
+: base operand of  has non-pointer type : 170
+: invalid use of : 171
+:  declared as reference but not initialized: 174
+!\n");: 175
+, or slist full.\n");: 177
+ when reading elements of the slist!\n");: 179
+:  is not a type: 181
+: comparison between distinct pointer types  and  lacks a cast: 183
+: invalid application of  to incomplete type : 185
+;      // i小于1或者大于表长: 187
+: expected statement at end of input: 198
+>delete: 199
+: type  argument given to , expected pointer: 200
+: cannot decompose non-array non-class type : 201
+: invalid use of incomplete type : 202
+: no pre-decrement operator for type: 205
+: expected  after struct definition: 206
+: use of parameter from containing function: 207
+: unable to find character literal operator  with  argument: 213
+: version control conflict marker in file: 215
+: invalid digit "8" in octal constant: 216
+: no  declared for postfix  [-fpermissive]: 219
+: use of  before deduction of : 223
+=true;: 224
+: default argument missing for parameter 3 of : 225
+:  is not a pointer-to-object type: 226
+: a template declaration cannot appear at block scope: 227
+: #include nested too deeply: 234
+: fixed-point types not supported in C++: 236
+ when setti: 238
+1、n”）；: 239
+: typedef  is initialized (use decltype instead): 240
+: statement cannot resolve address of overloaded function: 241
+: use of an operand of type  in  is forbidden: 245
+!\n");        SL_Free(slist);        exit(0);    }    T res=slist->data[i];    for (int j=i; j<slist->len-1; j++) {        slist->data[j] = slist->data[j+1];    }    slist->len--;    return res;    /********** End **********/}int SL_DelValue(SeqList* slist, T x)// 删除第一个值为x的结点, 存在值为x的结点则返回结点编号, 未找到返回－1{    // 请在这里补充代码，完成本关任务    /********** Begin *********/    int i=SL_FindValue(slist, x);    if (i>=0) SL_DelAt(slist, i);    return i;    /********** End **********/}: 248
+"<<endl;: 252
+: call to non-constexpr function : 255
+:  is not a constant expression: 256
+: duplicate case value: 257
+: multiple default labels in one switch: 258
+: expected  before user-defined character literal: 264
+: jump to case label [-fpermissive]: 279
+: digit separator outside digit sequence: 282
+: local variable  may not appear in this context: 284
+:  or  specified with char for : 287
+:  is not a class template: 292
+: template parameters not deducible in partial specialization:: 295
+:  must have an argument of class or enumerated type: 296
+: template-id  for  does not match any template declaration: 297
+: "(" may not appear in macro parameter list: 300
+: macro names must be identifiers: 301
+:  declared as function returning a function: 306
+: invalid initialization of non-const reference of type  from an rvalue of type : 308
+: assigning to an array from an initializer list: 311
+: cannot declare pointer to : 314
+: nonnull argument references non-pointer operand (argument 2, operand 4): 317
+: narrowing conversion of  from  to  inside { } [-Wnarrowing]: 319
+: cannot resolve overloaded function  based on conversion to type : 324
+: incomplete universal character name \u1: 325
+: overloaded function with no contextual type information: 327
+: operands to ?: have different types  and : 328
+: call of overloaded  is ambiguous: 333
+: scalar object  requires one element in initializer: 335
+: "0include" after # is not a positive integer: 338
+:  is not a class, struct, or union type: 339
+: non-member function  cannot have cv-qualifier: 342
+: stray : 343
+: array bound is not an integer constant before  token: 347
+: reference to  is ambiguous: 348
+:  is not captured: 350
+: no match for call to : 351
+: size of array  has non-integral type : 352
+: variable  has initializer but incomplete type: 355
+: flexible array member  not at end of : 356
+: elements of array  have incomplete type: 358
+: use of parameter outside function body before  token: 359
+: invalid use of array with unspecified bounds: 360
+:  cannot be used as a member pointer, since it is of type : 362
+:  cannot be overloaded: 364
+: with : 365
+: capture of non-variable  : 367
+> > typename std::enable_if<std::__is_swappable<_Tp>::value>::type std::swap: 370
+: expected  after class definition: 373
+: initializer provided for function: 375
+>save: 379
+:  is: 381
+: invalid pure specifier (only  is allowed) before numeric constant: 385
+: only 1 name provided for structured binding: 388
+: invalid use of non-static member function : 389
+>, (x.rationalNumber::fenmu * y.rationalNumber::fenmu)}<brace-enclosed initializer list>rationalNumber: 390
+: array size missing in : 396
+:  has the same name as the class in which it is declared: 397
+:311:3: note: candidate: bool std::operator==(const std::er: 398
+: new cannot be applied to a reference type: 399
+: incomplete type  used in nested name specifier: 401
+: new types may not be defined in a return type: 405
+: using typedef-name  after : 407
+: , declared using local type , is used but never defined [-fpermissive]: 408
+: exp: 410
+ Bad address: 412
+:331:3: note: candidate: b: 414
+: too many decimal points in number: 421
+>result: 422
+: assignment of member  in read-only object: 431
+: use of deleted function : 434
+>judge: 435
+: declaration of  as multidimensional array must have bounds for all dimensions except the first: 439
+: conversion to non-const reference type  from rvalue of type  [-fpermissive]: 441
+: macro "getc" passed 2 arguments, but takes just 1: 443
+ (usec) */: 447
+s (ro) */: 448
+: missing binary operator before token "(": 449
+ (FILE *__stream) __THROW __wur;: 450
+:  is not a namespace-name: 451
+: ISO C++ forbids casting to an array type : 455
+: invalid use of type  in parameter declaration: 458
+: only constructors take member initializers: 460
+: cloth: 461
+: invalid cast of an rvalue expression of type  to type : 462
+: two consecutive  shall only introduce an attribute before  token: 467
+_r (int __errnum, char *__buf, size_t __buflen): 469
+_code1 Stack<elementType>::push(elementType x) {: 470
+: invalid use of void expression: 477
+(const char*): 482
+:  not defined: 488
+:  was not declared in this scope, and no declarations were found by argument-dependent lookup at the point of instantiation [-fpermissive]: 498
+: macro "InorderTravers" requires 2 arguments, but only 1 given: 509
+: ISO C++ forbids applying  to an expression of function type [-fpermissive]: 510
+: unterminated argument list invoking macro "HasEdge": 511
+: no macro name given in #undef directive: 535
+: cannot decompose lambda closure type : 540
+:  is not followed by a macro parameter: 551
+: size of array  is not an integral constant-expression: 554
+: extra qualification  on member  [-fpermissive]: 555
+: weakref  must have static linkage: 556
+:  is private within this context: 557
+: default arguments are only permitted for function parameters [-fpermissive]: 559
+: function definition does not declare parameters: 561
+: no  member function declared in class : 562
+: a storage class can only be specified for objects and functions: 563
+: explicit qualification in declaration of : 565
+: prototype for  does not match any in class : 568
+: candidate is: void Int::setValue(): 569
+>Int::value: 574
+:  names the constructor, not the type: 575
+: returning a value from a constructor: 577
+: invalid constructor; you probably meant : 578
+: constructors may not be cv-qualified: 580
+: return type specification for constructor invalid: 581
+: uninitialized reference member in  [-fpermissive]: 582
+: anachronistic old-style base class initializer [-fpermissive]: 583
+: unnamed initializer for , which has no base classes: 584
+: passing  as  argument discards qualifiers [-fpermissive]: 586
+: candidates are: constexpr Int::Int(Int&&): 587
+:                 Int::Int(int): 589
+: initializer specified for non-virtual method : 591
+: call to  uses the default argument for parameter 1, which is not yet defined: 594
+: definition of implicitly-declared : 595
+: cannot call member function  without object: 599
+: candidate is: int Int::getValue() const: 602
+:  must take exactly two arguments: 603
+:  was declared  and later  [-fpermissive]: 609
+: binding reference of type  to  discards qualifiers: 610
+: declaration of  outside of class is not definition [-fpermissive]: 616
+:  used outside of class: 617
+: candidates are: Int::Int(int): 618
+: cannot call constructor  directly [-fpermissive]: 622
+:  must take either zero or one argument: 626
+: candidate is: Int Int::operator+(const Int&): 632
+9:9: note: declared private here: 639
+: expected string-literal at end of input: 640
+: #if with no expression: 645
+: invalid use of destructor  as a type: 647
+: destructors may not have parameters: 658
+: candidate is: bool Int::operator==(const Int&): 666
+: candidate is: constexpr Int& Int::operator=(const Int&): 673
+: mixing declarations and function-definitions is forbidden: 675
+: ISO C++ forbids taking the address of a bound member function to form a pointer to member function.  Say  [-fpermissive]: 685
+: taking address of temporary [-fpermissive]: 687
+: array size in new-expression must be constant: 691
+: postfix  must take  as its argument: 696
+: specializing member  requires  syntax: 705
+: candidates are: Array::Array(int, int): 711
+:                 Array::Array(const int*, int): 712
+: declaration of  has a different exception specifier: 715
+(_func_);: 716
+){throw "insert";}: 719
+: candidates are: const int& Array::operator[](int) const: 720
+: candidate is: Array& Array::operator=(const Array&): 722
+: candidate is: void Array::remove(int): 724
+: candidate is: int Array::at(int) const: 728
+("overflow_errer);: 729
+(const char*) _GLIBCXX_TXN_SAFE;: 735
+(const string&): 736
+: expression in new-declarator must have integral or enumeration type: 739
+("invalid_argument");}: 743
+: array used as initializer: 748
+("remove")}: 752
+("at")}: 753
+("modify")}: 754
+("This function is %s.\n", __func__ );}: 759
+(const char [22], const char [7]): 760
+("Array");: 770
+ );}return data[pos];}: 771
+ );}for(int i=0;i<size;++i){: 772
+: cannot delete a function.  Only pointer-to-objects are valid arguments to : 773
+>}main()::<lambda()>char: 775
+:the divisor cannot be 0")}: 783
+: converting to  from  requires direct-initialization [-fpermissive]: 787
+ when push element to the stack!\n");: 792
+ when pop element of the stack top!\n");: 793
+: array bound forbidden after parenthesized type-id: 794
+: candidates are: ArrayList::ArrayList(int, int): 799
+: candidate is: ArrayList& ArrayList::operator=(const ArrayList&): 813
+: virt-specifiers in  not allowed outside a class definition: 815
+_msg_.c_str(); }: 816
+_msg_: 817
+: multiple initializations given for : 825
+>root: 838
+: invalid use of template-name  without an argument list: 840
+: wrong number of template arguments (0, should be at least 1): 843
+:  needed for in-class initialization of static data member  of non-integral type [-fpermissive]: 844
+:  used without template parameters: 845
+: invalid declarator before : 850
+: candidate is: void LinkedList::disp() const: 854
+: candidate is: int LinkedList::at(int) const: 856
+: candidate is: LinkedList::Node* LinkedList::advance(int) const: 857
+: candidates are: LinkedList::LinkedList(int, int): 861
+: using-declaration for non-member at class scope: 867
+:  is not an accessible base of : 879
+: constructor delegates to itself: 880
+: candidates are: constexpr LinkedList::LinkedList(LinkedList&&): 881
+: candidates are: constexpr ArrayList::ArrayList(ArrayList&&): 883
+: cannot declare variable  to be of abstract type : 887
+: candidate is: virtual void LinkedList::disp(std::ostream&) const: 888
+: invalid new-expression of abstract class type : 891
+: conflicting return type specified for : 893
+:   overriding : 894
+: virtual functions cannot be friends: 899
+: field  with same name as class [-fpermissive]: 900
+: parenthesized initializer in array new [-fpermissive]: 901
+: invalid cast to abstract class type : 903
+: constructors cannot be declared  [-fpermissive]: 911
+: changes meaning of  from  [-fpermissive]: 916
+: invalid class name in declaration of : 917
+: token "." is not valid in preprocessor expressions: 925
+: unable to deduce  from : 926
+: inconsistent types  and  deduced for lambda return type: 927
+: parameter  includes pointer to array of unknown bound : 929
+: second operand to the conditional operator is of type , but the third operand is neither a throw-expression nor of type : 930
+: third operand to the conditional operator is of type , but the second operand is neither a throw-expression nor of type : 932
+_condition]+0xa9): undefined reference to `boost::system::generic_category(): 939
+_code const&, int) const: 941
+: cannot increment a pointer to incomplete type : 951
+( path );: 957
+ opendir %s!!!/n"folderPath);: 960
+: size of array  is too large: 961
+("opendir"),exit(-1);: 965
+: macro "SWAP" requires 3 arguments, but only 2 given: 973
+: friend declaration  in local class without prior declaration: 985
+: converting to  from initializer list would use explicit constructor : 990
+: inconsistent deduction for :  and then : 993
+:311:3: note:   no known conversion for argument 1 : 997
+: too many template-parameter-lists: 1000
+: canoperator<: 1001
+: static member  cannot be a bit-field: 1004
+:  is too long for GCC: 1005
+: ISO C++ forbids in-class initialization of non-const static member : 1006
+: use of local variable with automatic storage from containing function: 1009
+: cannot bind rvalue m coming,Hunan Normal University!\012")short int&: 1027
+: no context to resolve type of : 1048
+:  undeclared (first use in this function); did you mean ?: 1063
+: called object is not a function or function pointer: 1074
+: invalid suffix "dln" on integer constant: 1078
+:  undeclared here (not in a function); did you mean ?: 1086
+: parameter  is initialized: 1087
+: declaration for parameter  but no such parameter: 1088
+: invalid suffix "c" on floating constant: 1091
+: candidate is: int Task::sort(std::vector<int>): 1096
+>keep: 1097
+: subscripted value is neither array nor pointer nor vector: 1110
+: candidate is: void StInfo::SetInfo(int, char*, char*, char*): 1113
+: candidate is: int StInfo::PrintInfo(): 1114
+: candidate is: int Rectangle::GetArea(): 1115
+:                 StInfo::StInfo(): 1150
+: candidate is: void Rectangle::Set(int, int): 1153
+:                 Car::Car(): 1162
+: candidate is: std::__cxx11::string StInfo::PrintInfo(): 1163
+: candidate is: char Car::GetM(): 1164
+:  declared in a non-class scope: 1169
+: an anonymous struct cannot have function members: 1180
+: private member  in anonymous struct [-fpermissive]: 1181
+: candidate is: bool car::openthedoor(): 1192
+: candidate is: void stinfo::setinfo(int, char*, int*, char*): 1203
+: default argument given for parameter 1 of  [-fpermissive]: 1220
+: candidates are: Car::Car(Car&&): 1234
+: storage class specifiers invalid in parameter declarations: 1242
+: storage class specified for parameter : 1243
+:                 car::car(): 1248
+> ><unresolved overloaded function type>char: 1263
+: unknown array size in delete: 1272
+: candidate is: car car::jiansu(): 1274
+:  may not be used when defining (as opposed to declaring) a static data member [-fpermissive]: 1275
+: local class  shall not have static data member  [-fpermissive]: 1294
+: type mismatch with previous external decl of  [-fpermissive]: 1295
+: candidates are: Student::Student(Student&&): 1296
+:                 Student::Student(const Student&): 1297
+:                 Student::Student(int, std::__cxx11::string): 1302
+: candidate is: static void User::GetState(): 1304
+:  is a static data member; it can only be initialized at its definition: 1305
+: invalid initializer for array member : 1308
+: candidate is: static int User::GetState(): 1309
+: candidates are: User::User(const User&): 1320
+:                 User::User(int, int): 1321
+: static data member  in unnamed class [-fpermissive]: 1323
+: member  with constructor not allowed in anonymous aggregate: 1324
+: abstract declarator  used as declaration: 1327
+: candidate is: static User User::GetState(): 1328
+: cannot declare static function inside another function: 1335
+: candidate is: float Student::getsco(): 1347
+: Killed (program cc1plus): 1369
+>Node::lchild: 1374
+: candidate is: void Graduate::PrintResearchID(): 1385
+: insufficient contextual information to determine type: 1398
+: request for member  is ambiguous: 1402
+: more than one access specifier in base-specifier before : 1411
+: invalid use of unary  on pointer to member: 1412
+: constructor delegation follows mem-initializer for : 1436
+: member functions are implicitly friends of their class [-fpermissive]: 1460
+:  declared as a  field: 1464
+:  marked , but does not override: 1478
+: candidate is: int ForRepeater::Play(): 1484
+: candidate is: int RevRepeater::Play(): 1485
+: candidate is: virtual float Circle::PrintArea(): 1492
+: candidates are: constexpr Rectangle::Rectangle(Rectangle&&): 1493
+: candidate is: virtual int Rectangle::PrintArea(): 1502
+: candidate is: virtual double Rectangle::PrintArea(): 1504
+>Chinese::string: 1511
+: candidate is: virtual std::__cxx11::string Chinese::NiHao() const: 1512
+: cannot allocate an object of abstract type : 1523
+:                 Shape::Shape(): 1527
+: invalid covariant return type for : 1538
+: candidate is: virtual ForRepeater ForRepeater::Play(): 1539
+: candidate is: virtual RevRepeater RevRepeater::Play(): 1540
+: candidates are: Teacher::Teacher(Teacher&&): 1546
+:                 Teacher::Teacher(const Teacher&): 1547
+: candidate is: Complex Complex::operator*(Complex&): 1550
+:                 Complex::Complex(float, float): 1554
+: candidate is: Complex& Complex::operator+(Complex&): 1563
+:  must take either one or two arguments: 1595
+:  is neither function nor member function; cannot be declared friend: 1597
+: candidate is: void Matrix::Set(int, int, int) const: 1602
+>Matrix::sum: 1606
+:                 Virus::Virus(): 1633
+: non-static const member , can: 1634
+: lambda-expression in unevaluated context: 1641
+: missing type-name in typedef-declaration: 1660
+");flag=1;}: 1676
+"); ruturn;: 1683
+: invalid cast to function type : 1686
+: expansion pattern  contains no argument packs: 1694
+: undefined produer number detected"<<endl;return 0;}: 1703
+: static assertion failed: value type is destructible: 1704
+ message:line 5,division by zero");: 1707
+ message:line 1,realnum can not be translated into int type";: 1708
+: incompatible types when assigning to type  from type : 1714
+: request for member  in something not a structure or union: 1717
+: invalid suffix "_____" on integer constant: 1718
+: invalid operands to binary * (have  and ): 1723
+: initializer element is not constant: 1724
+!);exit 0;}: 1727
+: static declaration of  follows non-static declaration: 1728
+: assignment to expression with array type: 1730
+: used struct type value where scalar is required: 1731
+: cannot dynamic_cast  (of type ) to type  (source is not a pointer): 1734
+(int): 1735
+std::vector<std::vector<int> >std::vector<std::vector<void> >: 1736
+: no matches converting function  to type : 1737
+: candidate is: void aka::Matrix::SaveAndDisplay(): 1739
+("seget fail!\n");return 0;}//创建失败: 1743
+>, ret}: 1747
+: candidates are: aka::thread_struct::thread_struct(aka::thread_struct&&): 1750
+: rhs: 1754
+: Int: 1755
+: candidate is: int EvenNumber::getNext(): 1759
+: candidates are: constexpr EvenNumber::EvenNumber(EvenNumber&&): 1761
+: candidate is: double Account::getbalance() const: 1768
+: candidates are: Account::Account(Account&): 1771
+: candidates are: constexpr CheckingAccount::CheckingAccount(CheckingAccount&&): 1781
+: candidates are: constexpr SavingsAccount::SavingsAccount(SavingsAccount&&): 1785
+: candidates are: EvenNumber EvenNumber::operator--(int): 1791
+: candidate is: Rational& Rational::operator+(int): 1793
+: candidate is: void Account::setbalance(double): 1795
+: candidate is: void Rational::print(Rational): 1799
+: candidate is: Rational Rational::operator+(const Rational&): 1800
+: cannot declare parameter  to be of abstract type : 1809
+: invalid abstract return type : 1813
+("Illegal op type!\n");: 1814
+: candidate is: ALgraph< <template-parameter-1-1> >::ALgraph(dt*, int, bool, bool): 1818
+: non-constant in-class initialization invalid for static member : 1823

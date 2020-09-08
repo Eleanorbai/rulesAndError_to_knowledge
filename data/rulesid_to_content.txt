@@ -1,0 +1,99 @@
+3587|4 more lines of code need to be covered by tests to reach the minimum threshold of 65.0% lines coverage.
+3353|Add a new line at the end of this file.
+3344|Rename class "rationalNumber" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.
+3363|Not all characters of the file can be encoded with the predefined charset UTF-8.
+3338|Rename this file to match this regular expression: "(([a-z_][a-z0-9_]*)
+3359|Unable to find the source for '#include <iostream>'.
+3347|Add or update the header of this file.
+10913|Unmatched suppression: missingIncludeSystem
+11340|Comparison of modulo result is predetermined, because it is always less than 10.
+3588|10 more comment lines need to be written to reach the minimum threshold of 25.0% comment density.
+3341|Replace all tab characters in this file by sequences of white-spaces.
+3342|Rename function "extractDigit" to match the regular expression ^[a-z_][a-z0-9_]{2,30}$.
+11047|scanf() without field width limits can crash with huge input data.
+3343|Undocumented API: data
+11142|The scope of the variable 't' can be reduced.
+11075|Possible null pointer dereference: tail
+10930|The function 'delHas' is never used.
+11227|Either the condition 'q' is redundant or there is possible null pointer dereference: q.
+11181|Consecutive return, break, continue, goto or throw statements are unnecessary.
+11190|Variable 'h' is assigned a value that is never used.
+11275|Uninitialized struct member: z.fenzi
+11037|Uninitialized variable: z
+3350|Split this 213 characters long line (which is greater than 160 authorized).
+11130|Memory leak: q
+11363|Assignment of function parameter has no effect outside the function. Did you forget dereferencing it?
+3336|C++ Parser can't read code. Declaration is skipped.
+10916|Non-boolean value returned from function returning bool
+3357|At most one statement is allowed per line, but 2 statements were found on this line.
+10947|Unused variable: k
+10895|C-style pointer casting
+11048|Condition 'llist->curr!=NULL' is always true
+3356|The Cognitive Complexity of this function is 16 which is greater than 15 authorized.
+3358|The Cyclomatic Complexity of this function is 12 which is greater than 10 authorized.
+11014|Redundant assignment of 'h' to itself.
+11258|Comparison of a boolean expression with an integer other than 0 or 1.
+11305|Redundant initialization for 'i'. The initialized value is overwritten before it is read.
+11156|Variable 'result' is reassigned a value before the old one has been used.
+11067|Statements following return, break, continue, goto or throw will never be executed.
+11097|Label 'error' is not used.
+11236|syntax error: = .. while
+10926|Variable 'm' is not assigned a value.
+10950|Assignment of function parameter has no effect outside the function.
+11264|Local variable 'i' shadows outer variable
+10929|Cppcheck cannot find all the include files (use --check-config for details)
+10955|Array index 'j' is used before limits check.
+11300|struct member 'clothing::numberRemaining' is never used.
+11164|%d in format string (no. 1) requires 'int *' but the argument type is 'signed char *'.
+11207|scanf format string requires 1 parameter but 2 are given.
+10982|In expression like '*A++' the result of '*' is unused. Did you intend to write '(*A)++;'?
+11136|Assignment 'n.fenzi=0' is redundant with condition 'n.fenzi==0'.
+11104|Expression is always false because 'else if' condition matches previous condition at line 15.
+11348|Either the condition 'tail==0' is redundant or the array 'queue[1000]' is accessed at index -1, which is out of bounds.
+3589|2 duplicated blocks of code must be removed.
+11020|Array 'fpp[1024]' accessed at index 1024, which is out of bounds.
+10880|Variable 'string' is allocated memory that is never used.
+10881|Unused variable value 't'
+10900|Storing fgetc() return value in char variable and then comparing with EOF.
+11235|Label 'defult' is not used. Should this be a 'case' of the enclosing switch()?
+11157|%d in format string (no. 1) requires 'int' but the argument type is 'double'.
+11100|Boolean result is used in bitwise operation. Clarify expression with parentheses.
+10889|Logical conjunction always evaluates to false: xq == 7 && xq == 0.
+11096|Clarify calculation precedence for '%' and '?'.
+10973|Same expression on both sides of '>='.
+11021|Variable 'w' is reassigned a value before the old one has been used. 'break;' missing?
+10984|int result is returned as long value. If the return value is long to avoid loss of information, then you have loss of information.
+11107|Redundant condition: b==0. 'b!=0
+10943|Return value of function abs() is not used.
+11333|Local variable 'p' shadows outer argument
+10927|Opposite expression on both sides of '&&'.
+11352|Redundant pointer operation on 'p' - it's already a pointer.
+11231|The if condition is the same as the previous if condition
+11072|Mismatching assignment and comparison, comparison 'c==3' is always false.
+11174|Using 'sizeof' on array given as function argument returns size of a pointer.
+10994|Unsigned expression 'n' can't be negative so it is unnecessary to test it.
+11036|Assigning a pointer to an integer is not portable.
+11289|Opposite inner 'if' condition leads to a dead code block.
+10903|Identical inner 'if' condition is always true.
+10944|Shifting 32-bit value by 122 bits is undefined behaviour
+10897|The class 'Int' does not have a constructor although it has private member variables.
+3346|Rename method "setValue" to match the regular expression ^[A-Z][A-Za-z0-9]{2,30}$.
+11214|Checking if unsigned expression 'strlen(s)-m' is less than zero.
+11366|%n in format string (no. 1) requires 'int *' but the argument type is 'double'.
+10987|%f in format string (no. 1) requires 'float *' but the argument type is 'signed int *'.
+11027|Class 'Int' has a constructor with 1 argument that is not explicit.
+10949|The code contains unhandled character(s) (character code=226). Neither unicode nor extended ascii is supported.
+11128|Member variable 'Int::value' is not initialized in the constructor.
+11111|Dereferencing 'top' after it is deallocated / released
+10965|Assigning an integer to a pointer is not portable.
+11094|Internal Error. MathLib::normalizeCharacterLiteral: Unhandled char constant '\!'.
+11012|Either the condition '0<y' is redundant or there is division by zero at line 18.
+10858|Comparison is wrong. Result of 's+m' can't be 0 unless there is pointer overflow, and pointer overflow is undefined behaviour.
+10886|Obsolete function 'gets' called. It is recommended to use 'fgets' or 'gets_s' instead.
+10846|Function 'frequency' argument order different: declaration 'sub, str' definition 'str, sub'
+11255|Same expression used in consecutive assignments of 't' and 'a'.
+10877|Local variable 'strmncpy' shadows outer function
+3351|The number of code lines in this function is 294 which is greater than 200 authorized.
+3345|The Cyclomatic Complexity of this file is 227 which is greater than 200 authorized.
+10935|%s in format string (no. 1) requires a 'char *' but the argument type is 'signed int *'.
+11152|Returning an address value in a function with integer return type is not portable.
